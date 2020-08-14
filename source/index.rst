@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ================================================
-PyCharm Cookbook
+PyCharm Guide
 ================================================
 
 Contents:
