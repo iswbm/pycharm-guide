@@ -46,7 +46,7 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'PyCharm Coobook'
+project = 'PyCharm Guide'
 copyright = '王炳明'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -124,7 +124,7 @@ author = '王炳明'
 copyright = '2020, Python编程时光'
 exclude_patterns = ['_build']
 master_doc = 'index'
-project = 'PyCharm Cookbook'
+project = 'PyCharm Guide'
 release = '2.0'
 version = '2.0'
 
