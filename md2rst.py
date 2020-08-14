@@ -4,8 +4,6 @@ import os
 import subprocess
 import platform
 
-from git import Repo
-
 
 osName = platform.system()
 repo_path ='.'
@@ -19,10 +17,6 @@ elif (osName == 'Darwin'):
     index_path = '/Users/MING/Github/magic-python/README.md'
 
 
-repo = Repo.init(path=repo_path)
-if not repo.is_dirty():
-    # 没有文件变更
-    os._exit(0)
 
 base_link = "http://python.iswbm.com/en/latest/"
 readme_header = '''
