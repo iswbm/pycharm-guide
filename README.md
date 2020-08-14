@@ -496,7 +496,7 @@ python main.py init --local
 
 
 
-# 第五章：实用技巧
+# 第五章：插件与工具
 
 ## 5.1 TODO 解救“中年痴呆”
 
@@ -914,7 +914,7 @@ Ctrl + Shift + 1  添加“1”序号的标签
 ![](http://image.python-online.cn/FiD91PR1hUu0Ruc6cmZ7EGNM6Be_)
 
 
-# 第七章：版本管理
+# 第七章：版本与管理
 
 ## 7.1 使用 Git 进行版本管理
 
