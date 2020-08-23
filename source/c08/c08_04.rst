@@ -1,0 +1,32 @@
+8.4 【必学技巧 04】以列为单位的块编辑
+=====================================
+
+|image0|
+
+先给你出道小题，像下面这段代码，如果在不影响代码的情况下，快速删除后面代码后面的注释呢？
+
+|image1|
+
+我能想到的有两种方法，如果像如上这种有规律的注释，可以使用 ``正则匹配``
++ ``替换`` 来实现。
+
+|image2|
+
+对于这个场景我想到了可以用 vim来轻松的解决，vim
+支持块编辑，可以以列为单位选择区域然后进行操作，这在vim中是很常用的一个取消注释的操作。
+
+同样回到 PyCharm 中来，你会发现它也支持块编辑。
+
+当你按住
+alt（windows）或者option（mac），然后使用鼠标进行选择，你会发现这样一件神奇的事情。
+
+|image3|
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20190721132238.png
+.. |image2| image:: http://image.python-online.cn/20190721133403.png
+.. |image3| image:: https://i.loli.net/2019/07/21/5d3401410087b61815.gif
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
+

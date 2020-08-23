@@ -1,0 +1,38 @@
+4.2 【运行技巧 02】通过指定参数，执行程序
+=========================================
+
+|image0|
+
+你在 Pycharm 运行你的项目，通常是怎么执行的？我的做法是，右键，然后点击
+``Run``\ ，或者使用快捷键 ``Shift + F10`` 。
+
+有时候，在运行/调试脚本的时候，我们需要指定一些参数，这在命令行中，直接指定即可。
+
+假设在命令行中，运行脚本的命令是这样
+
+.. code:: shell
+
+   python main.py init --local
+
+对于刚使用 Pycharm 的同学，可能并不知道 Pycharm
+也是可以指定参数的。点击下图位置
+
+|image1|
+
+进入设置面板，在 ``Script parameters`` 中填入参数即可。
+
+|image2|
+
+同时在上图的底部，你可以看到，这里可以很方便的切换
+解释器，比你跑到这边来要容易得多吧
+
+|image3|
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/FmfL3r0iWx_srT_xMASBEp1ZaaId
+.. |image2| image:: http://image.python-online.cn/FujczKwTUPa8l5EEmS0eoh-zL1Nk
+.. |image3| image:: http://image.python-online.cn/Fq60WOdcRJopqV6MVoRcIuZclYKx
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
+

@@ -1,0 +1,23 @@
+7.3 【版本管理 03】媲美beyond compare 的差异对比功能
+====================================================
+
+|image0|
+
+程序开发必备神器中，beyond compare 绝对可以排一号。
+
+虽说好用，但这东西，是收费的。
+
+如果是简单的单个文件的比对，其实可以使用PyCharm里自带的。
+
+点击源文件，再点击\ ``View`` -> ``Compare With …`` -> 选择目标文件
+
+对比示例，可以查看下面这张图，UI做的还是挺好看的。
+
+|image1|
+
+|image2|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20190721125739.png
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
+

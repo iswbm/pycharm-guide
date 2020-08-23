@@ -1,0 +1,81 @@
+5.3 【绝佳工具 03】一键进行代码性能分析
+=======================================
+
+|image0|
+
+在 Python 中有许多模块可以帮助你分析并找出你的项目中哪里出现了性能问题。
+
+比如，常用的模块有
+cProfile，在某些框架中，也内置了中间件帮助你进行性能分析，比如 Django
+，WSGI。
+
+做为Python 的第一 IDE， PyCharm
+本身就支持了这项功能。而且使用非常方便，小白。
+
+假设现在要分析如下这段代码的性能损耗情况，找出到底哪个函数耗时最多
+
+.. code:: python
+
+   import time
+
+   def fun1():
+       time.sleep(1)
+
+   def fun2():
+       time.sleep(1)
+
+   def fun3():
+       time.sleep(2)
+
+   def fun4():
+       time.sleep(1)
+
+   def fun5():
+       time.sleep(1)
+       fun4()
+
+   fun1()
+   fun2()
+   fun3()
+   fun5()
+
+点击 Run -> Profile ‘程序’ ，即可进行性能分析。
+
+|image1|
+
+运行完毕后，会自动跳出一个性能统计界面。
+
+|image2|
+
+性能统计界面由Name、Call Count、Time(ms)、Own Time(ms)
+，4列组成一个表格，见下图。
+
+1. 表头Name显示被调用的模块或者函数；Call
+   Count显示被调用的次数；Time(ms)显示运行时间和时间百分比，时间单位为毫秒（ms）。
+2. 点击表头上的小三角可以升序或降序排列表格。
+3. 在Name这一个列中双击某一行可以跳转到对应的代码。
+4. 以fun4这一行举例：fun4被调用了一次，运行时间为1000ms，占整个运行时间的16.7%
+
+点击 Call
+Graph（调用关系图）界面直观展示了各函数直接的调用关系、运行时间和时间百分比，见下图。
+
+|image3|
+
+右上角的4个按钮表示放大、缩小、真实大小、合适大小；
+
+1. 箭头表示调用关系，由调用者指向被调用者；
+2. 矩形的左上角显示模块或者函数的名称，右上角显示被调用的次数；
+3. 矩形中间显示运行时间和时间百分比；
+4. 矩形的颜色表示运行时间或者时间百分比大小的趋势：红色 > 黄绿色 >
+   绿色，由图可以看出fun3的矩形为黄绿色，fun1为绿色，所有fun3运行时间比fun1长。
+5. 从图中可以看出Test.py直接调用了fun3、fun1、fun2和fun5函数；fun5函数直接调用了fun4函数；fun1、fun2、fun3、fun4和fun5都直接调用了print以及sleep函数；整个测试代码运行的总时间为6006ms，其中fun3的运行时间为1999ms，所占的时间百分比为33.3%，也就是
+   1999ms / 6006ms = 33.3%。
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20190507222856.png
+.. |image2| image:: http://image.python-online.cn/20190507222119.png
+.. |image3| image:: http://image.python-online.cn/20190507223313.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
+

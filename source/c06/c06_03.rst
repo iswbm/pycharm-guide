@@ -1,0 +1,50 @@
+6.3 【搜索技巧 03】全方位无死角精准定位
+=======================================
+
+|image0|
+
+一直觉得使用鼠标是一种非常低效的习惯。
+
+我热衷于使用各种键盘快捷键来提高操作的精准度，在编辑器上我可以相当熟练的使用
+vim 指令完成我各种需求，因此我给 PyCharm 装上了ideaVim，给 Chrome 装上了
+Vimium。
+
+同样地阅读框架代码，我也都是使用全键盘进行操作。因为我有长期阅读
+OpenStack
+源码的需求，其代码量是数百万级别的。如果没有使用精准定位来快速跳转，这种极差的体验将很难使我坚持下来。
+
+这里暂时先介绍几种我最常用的精准定位方法，主要可以定位跳转到如下三种
+
+-  精准定位到文件：Windows（Ctrl+Shift+N），Mac（Command+ shift +N）
+
+|image1|
+
+-  精准定位到类：Windows（Ctrl+N），Mac（Command+N）
+
+|image2|
+
+-  精准定位到符号：类的所有成员（函数、变量等）都可以称之为符号，Windows（Ctrl+Alt+Shift+N），Mac（Option+Shift+Command+N）
+
+|image3|
+
+-  精准定位到文件结构：文件结构包括类、函数、变量，这说明上面定位到类和定位到符号的方法，你都可以用这个来代替。
+
+   Windows：Ctrl+F12，Mac：Command+F12，如果和我一样是Mac是带touchbar的，键盘上是没有F12的，那你应该先按住
+   Command + fn，这时 touchbar 上会出现 F12，再按F12即可。
+
+|image4|
+
+-  精准定位到某行：Windows（Ctrl+G），Mac（Command+G），如下图定位到第510行第9个字符处。
+
+|image5|
+
+|image6|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20190616221620.png
+.. |image2| image:: http://image.python-online.cn/20190616232746.png
+.. |image3| image:: http://image.python-online.cn/20190616233827.png
+.. |image4| image:: http://image.python-online.cn/20190616235007.png
+.. |image5| image:: http://image.python-online.cn/20190616234038.png
+.. |image6| image:: http://image.iswbm.com/20200607174235.png
+

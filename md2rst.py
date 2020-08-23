@@ -8,13 +8,13 @@ import platform
 osName = platform.system()
 repo_path ='.'
 if (osName == 'Windows'):
-    repo_path = 'E:\\MING-Git\\magic-python'
-    blog_path = 'E:\\MING-Git\\magic-python\\source'
-    index_path = 'E:\\MING-Git\\magic-python\\README.md'
+    repo_path = 'E:\\MING-Git\\pycharm-guide'
+    blog_path = 'E:\\MING-Git\\pycharm-guide\\source'
+    index_path = 'E:\\MING-Git\\pycharm-guide\\README.md'
 elif (osName == 'Darwin'):
-    repo_path = '/Users/MING/Github/magic-python/'
-    blog_path = '/Users/MING/Github/magic-python/source'
-    index_path = '/Users/MING/Github/magic-python/README.md'
+    repo_path = '/Users/MING/Github/pycharm-guide/'
+    blog_path = '/Users/MING/Github/pycharm-guide/source'
+    index_path = '/Users/MING/Github/pycharm-guide/README.md'
 
 
 
