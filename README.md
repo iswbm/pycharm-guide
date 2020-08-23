@@ -16,6 +16,8 @@
 
 ## Contents
 
+![](http://image.iswbm.com/20200823171824.png)
+
 - **第一章：安装与运行**
    * [1.1【版本介绍】多个版本的介绍与选择](http://pycharm.iswbm.com/en/latest/c01/c01_01.html)
    * [1.2【免费使用】申请使用免费专业版](http://pycharm.iswbm.com/en/latest/c01/c01_02.html)

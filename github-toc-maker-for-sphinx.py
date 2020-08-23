@@ -58,6 +58,8 @@ def print_md_toc(toc_info, mapping):
         chapter_name = mapping[chapter[0]]
         print(f"- **{chapter_name}**")
         for post in sorted(posts.items(), key=lambda item:item[0]):
+            # print title only 
+            # print(f"{post[1][0]}")
             print("  ", f"* [{post[1][0]}]({post[1][1]})")
 
 def main():
