@@ -1,0 +1,34 @@
+5.8 【绝佳工具 06】选择执行：Execute Selection in Console
+=========================================================
+
+|image0|
+
+当你想写一段简单的测试代码时，或许你会这样子
+
+1. 使用 Python Shell 直接写。缺点是没有自动补全。
+2. 在 PyCharm 中新开一个文件。缺点是要新创建一个文件，完了后还要删除。
+
+今天再给大家介绍一种新的方法，可以完全避开上面两种方式的缺点。
+
+那就是 ``Execute Selection in Console``\ ，可以说是 ``Run in Anywhere``.
+
+只要在当前文件中，写好代码，然后光标选择后，右键点击
+``Execute Selection in Python Console`` 或者 使用快捷键 option + shift +
+E (windows 上是 alt + shift + E)。
+
+|image1|
+
+接着 PyCharm 就会弹出一个 Python Console 窗口，然后运行你所选择的代码。
+
+|image2|
+
+可以发现其中的一个亮点，就是使用这种方法，PyCharm
+会自动帮我们处理好缩进（我们选择时，前面有缩进，可是在执行时，会自动去掉前面多余的缩进）
+
+|image3|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20200825083349.png
+.. |image2| image:: http://image.iswbm.com/20200825083632.png
+.. |image3| image:: http://image.iswbm.com/20200607174235.png
+
