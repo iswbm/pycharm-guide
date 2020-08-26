@@ -52,7 +52,8 @@
    * [5.5 【绝佳工具 03】在Windows上使用 Bash 命令](http://pycharm.iswbm.com/en/latest/c05/c05_05.html)
    * [5.6 【绝佳工具 04】代码不规范？试试自动化 PEP8](http://pycharm.iswbm.com/en/latest/c05/c05_06.html)
    * [5.7 【绝佳工具 05】HTTP接口调试：Test RESTful Web Service](http://pycharm.iswbm.com/en/latest/c05/c05_07.html)
-   * [5.8  【绝佳工具 06】选择执行：Execute Selection in Console](http://pycharm.iswbm.com/en/latest/c05/c05_08.html)
+   * [5.8 【绝佳工具 06】选择执行：Execute Selection in Console](http://pycharm.iswbm.com/en/latest/c05/c05_08.html)
+      * [5.8 【绝佳工具 07】输出结果美化：Show as JSON](http://pycharm.iswbm.com/en/latest/c05/c05_09.html)
 - **第六章：搜索与定位**
    * [6.1 【搜索技巧 01】应用搜索，阅读源码必备](http://pycharm.iswbm.com/en/latest/c06/c06_01.html)
    * [6.2 【搜索技巧 02】使用书签，快速定位](http://pycharm.iswbm.com/en/latest/c06/c06_02.html)
