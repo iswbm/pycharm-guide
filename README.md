@@ -65,7 +65,7 @@
    * [7.1 【版本管理 01】使用 Git 进行版本管理](http://pycharm.iswbm.com/en/latest/c07/c07_01.html)
    * [7.2 【版本管理 02】三种查看文件的修改](http://pycharm.iswbm.com/en/latest/c07/c07_02.html)
    * [7.3 【版本管理 03】媲美beyond compare 的差异对比功能](http://pycharm.iswbm.com/en/latest/c07/c07_03.html)
-   * [7.4 【版本管理 03查看文件修改记录：Annotate](http://pycharm.iswbm.com/en/latest/c07/c07_04.html)
+   * [7.4 【版本管理 04】查看文件修改记录：Annotate](http://pycharm.iswbm.com/en/latest/c07/c07_04.html)
 - **第八章：常用的技巧**
    * [8.1 【必学技巧 01】轻松实现 JSON格式化](http://pycharm.iswbm.com/en/latest/c08/c08_01.html)
    * [8.2 【必学技巧 02】误删项目？一秒找回](http://pycharm.iswbm.com/en/latest/c08/c08_02.html)
