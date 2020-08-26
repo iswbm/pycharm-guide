@@ -53,7 +53,8 @@
    * [5.6 【绝佳工具 04】代码不规范？试试自动化 PEP8](http://pycharm.iswbm.com/en/latest/c05/c05_06.html)
    * [5.7 【绝佳工具 05】HTTP接口调试：Test RESTful Web Service](http://pycharm.iswbm.com/en/latest/c05/c05_07.html)
    * [5.8 【绝佳工具 06】选择执行：Execute Selection in Console](http://pycharm.iswbm.com/en/latest/c05/c05_08.html)
-      * [5.8 【绝佳工具 07】输出结果美化：Show as JSON](http://pycharm.iswbm.com/en/latest/c05/c05_09.html)
+   * [5.8 【绝佳工具 07】输出结果美化：Show as JSON](http://pycharm.iswbm.com/en/latest/c05/c05_09.html)
+   * [5.8 【绝佳插件 03】正则表达式测试：Regex Tester](http://pycharm.iswbm.com/en/latest/c05/c05_10.html)
 - **第六章：搜索与定位**
    * [6.1 【搜索技巧 01】应用搜索，阅读源码必备](http://pycharm.iswbm.com/en/latest/c06/c06_01.html)
    * [6.2 【搜索技巧 02】使用书签，快速定位](http://pycharm.iswbm.com/en/latest/c06/c06_02.html)
@@ -64,15 +65,21 @@
    * [7.1 【版本管理 01】使用 Git 进行版本管理](http://pycharm.iswbm.com/en/latest/c07/c07_01.html)
    * [7.2 【版本管理 02】三种查看文件的修改](http://pycharm.iswbm.com/en/latest/c07/c07_02.html)
    * [7.3 【版本管理 03】媲美beyond compare 的差异对比功能](http://pycharm.iswbm.com/en/latest/c07/c07_03.html)
+   * [7.4 【版本管理 03查看文件修改记录：Annotate](http://pycharm.iswbm.com/en/latest/c07/c07_04.html)
 - **第八章：常用的技巧**
    * [8.1 【必学技巧 01】轻松实现 JSON格式化](http://pycharm.iswbm.com/en/latest/c08/c08_01.html)
    * [8.2 【必学技巧 02】误删项目？一秒找回](http://pycharm.iswbm.com/en/latest/c08/c08_02.html)
    * [8.3 【必学技巧 03】智能补全，忽略大小写](http://pycharm.iswbm.com/en/latest/c08/c08_03.html)
    * [8.4 【必学技巧 04】以列为单位的块编辑](http://pycharm.iswbm.com/en/latest/c08/c08_04.html)
-   * [8.5 【必学技巧 05】记录过去的专属剪切板](http://pycharm.iswbm.com/en/latest/c08/c08_05.html)
-   * [8.6 【必学技巧 06】重构操作，一步到位](http://pycharm.iswbm.com/en/latest/c08/c08_06.html)
+   * [8.5 【必学技巧 05】历史剪切板的使用：Paste  from History](http://pycharm.iswbm.com/en/latest/c08/c08_05.html)
+   * [8.6 【必学技巧 06】快速重构，修改所有函数与变量](http://pycharm.iswbm.com/en/latest/c08/c08_06.html)
    * [8.7 【必学技巧 07】tab和空格混用自动转换](http://pycharm.iswbm.com/en/latest/c08/c08_07.html)
    * [8.8 【必学技巧 08】代码块实现随处折叠](http://pycharm.iswbm.com/en/latest/c08/c08_08.html)
+   * [8.10 【必学技巧 10】快速移动/拷贝文件：F6/F5](http://pycharm.iswbm.com/en/latest/c08/c08_10.html)
+   * [8.11 【必学技巧 11】显示类继承关系图：Show Diagrams](http://pycharm.iswbm.com/en/latest/c08/c08_11.html)
+   * [8.12 【必学技巧 12】快速隐藏项目树](http://pycharm.iswbm.com/en/latest/c08/c08_12.html)
+   * [8.13 【必学技巧 13】把文件设置为只读：Read-Only](http://pycharm.iswbm.com/en/latest/c08/c08_13.html)
+   * [8.14 【必学技巧 14】自动导入解决依赖：Alt+Enter](http://pycharm.iswbm.com/en/latest/c08/c08_14.html)
 
 
 ## 附录
