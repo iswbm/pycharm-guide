@@ -1,0 +1,38 @@
+8.9 【必学技巧 08】从可视化 Python 包管理器
+===========================================
+
+|image0|
+
+PyCharm 在配置了解释器后，下方会列出你的该环境下所有已安装的包。
+
+在右边有四个按钮
+
+1. 安装
+2. 卸载
+3. 升级
+4. 查看早期版
+
+你可以通过他们对这些包进行管理。
+
+下面以安装 parse 包为例：
+
+点击 ``+`` 按钮
+
+|image1|
+
+搜索 ``parse`` ，并点击右下角进行安装
+
+|image2|
+
+退回包管理界面，已经安装成功了。
+
+|image3|
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20200826114256.png
+.. |image2| image:: http://image.iswbm.com/20200826113951.png
+.. |image3| image:: http://image.iswbm.com/20200826113926.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
+
