@@ -1,0 +1,25 @@
+6.6 【搜索技巧 06】显示当前类的继承树：Type Hierarchy
+=====================================================
+
+第一种方法
+----------
+
+使用快捷键 ``Ctrl + H``
+
+|image0|
+
+第二种方法
+----------
+
+使用快捷键 ⌘ + O
+
+|image1|
+
+--------------
+
+|image2|
+
+.. |image0| image:: http://image.iswbm.com/20200829123319.png
+.. |image1| image:: http://image.iswbm.com/image-20200829152814586.png
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
+

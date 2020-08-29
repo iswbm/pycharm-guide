@@ -1,0 +1,31 @@
+2.7 【界面改造 07】大屏必看：分屏查看代码
+=========================================
+
+|image0|
+
+如果需要在一个文件中编写两处代码，而这两处代码又相隔比较远。那么你可以使用对该文件开启分屏模式。
+
+分屏分为两种：
+
+-  竖屏
+
+   |image1|
+
+-  横屏
+
+   |image2|
+
+那怎么开启呢？右击标签页，会有如下两个选项，点击即可。
+
+|image3|
+
+--------------
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20200829225245.png
+.. |image2| image:: http://image.iswbm.com/20200829225323.png
+.. |image3| image:: http://image.iswbm.com/20200829225550.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
+

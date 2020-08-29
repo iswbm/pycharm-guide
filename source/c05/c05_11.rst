@@ -1,38 +1,44 @@
-5.11 【插件神器 04】在 PyCharm 中写 Markdown
-============================================
+5.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook
+====================================================
 
 |image0|
 
-富文本排版文档是一件非常痛苦的事情 ，对于程序员写文档，最佳的推荐是使用
-Markdown ，我所有的博客日记都是使用 Markdown 写出来的。
+使用 Jupyter 之前 ，先要安装它
 
-从
-Github下载的代码一般也都会带有README.md文件，该文件是一个Markdown格式的文件。
+.. code:: shell
 
-PyCharm是默认没有安装Markdown插件的，所以不能按照Markdown格式显示文本，显示的是原始文本。
+   $ pip install jupyter
 
-因此，如果要在 PyCharm 中阅读 Markdown 文档，可以装一下 Markdown support
-这个插件。
-
-安装的方法有两种：
-
-1、第一种，最方便的，就是你打开一个 MD 的文档，PyCharm
-就会提示你安装它。
-
-2、从插件商店中搜索安装。
+然后按照下图指示新建一个 Notebook ，就可以开始运作了。
 
 |image1|
 
-效果如下
+这个界面感觉和 Jupyter 的风格不太符
 
 |image2|
 
---------------
+但是使用上是没有什么区别的，记住三个快捷键就好(下面指的是 Mac
+上的，Windows 上的有所不同)
+
+-  Ctrl+Enter：运行该 cell
+-  Option + shift + Enter：调试该 cell
+-  Shift + Enter：插入一个新的 cell
 
 |image3|
 
+只要你安装了 Jupyter 后，你使用 Python Console 也会自动变成 Jupyter
+的模式
+
+|image4|
+
+--------------
+
+|image5|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200827130349.png
-.. |image2| image:: http://image.iswbm.com/20200827130420.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200827204703.png
+.. |image2| image:: http://image.iswbm.com/20200827204918.png
+.. |image3| image:: http://image.iswbm.com/20200827205529.png
+.. |image4| image:: http://image.iswbm.com/20200827205742.png
+.. |image5| image:: http://image.iswbm.com/20200607174235.png
 
