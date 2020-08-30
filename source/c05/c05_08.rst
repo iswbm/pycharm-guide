@@ -1,36 +1,33 @@
-5.8 【绝佳工具 04】选择执行：Execute Selection in Console
-=========================================================
+3.7 【提高效率 08】一套快捷键，精准打开工具栏
+=============================================
 
 |image0|
 
-当你想写一段简单的测试代码时，或许你会这样子
+在 PyCharm 的功能强大，每一处的空间都不值得浪费。
 
-1. 使用 Python Shell 直接写。缺点是没有自动补全。
-2. 在 PyCharm 中新开一个文件。缺点是要新创建一个文件，完了后还要删除。
+在它的四周，我们可以看到一堆的按钮，点开这些按钮，会出来相应的功能窗口。
 
-今天再给大家介绍一种新的方法，可以完全避开上面两种方式的缺点。
+如果使用鼠标去一个一个点击，诺大的屏幕上找准一个位置点击这就是对精神的极大消耗，那有没有办法可以可以用快捷键来控制呢？
 
-那就是 ``Execute Selection in Console``\ ，可以说是 ``Run in Anywhere``.
+点击 ``View`` -> ``Tool Windows``
+可以看到当前打开了哪些窗口（对于未打开的窗口并不会展示在这里），同时也可以看到它们的快捷键。
 
-只要在当前文件中，写好代码，然后光标选择后，右键点击
-``Execute Selection in Python Console`` 或者 使用快捷键 option + shift +
-E (windows 上是 alt + shift + E)。
+仔细观察，不难发现，其实在按钮上的最前面已经提示了快捷键的序号。所以即使你忘记了也没关系，只要用眼睛瞟一下看一下序号，再在序号前面按个
+Command 就行了。
 
 |image1|
 
-接着 PyCharm 就会弹出一个 Python Console 窗口，然后运行你所选择的代码。
+如果你想设置或修改他们的快捷键，可以在 ``Keymap`` -> ``Tool Windows``
+中设置
 
 |image2|
-
-可以发现其中的一个亮点，就是使用这种方法，PyCharm
-会自动帮我们处理好缩进（我们选择时，前面有缩进，可是在执行时，会自动去掉前面多余的缩进）
 
 --------------
 
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200825083349.png
-.. |image2| image:: http://image.iswbm.com/20200825083632.png
+.. |image1| image:: http://image.iswbm.com/20200828084019.png
+.. |image2| image:: http://image.iswbm.com/20200828083810.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

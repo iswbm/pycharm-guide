@@ -1,42 +1,41 @@
-3.2 【提高效率 02】使用收藏夹，收藏关键代码位
-=============================================
+2.2 【界面改造 02】关闭碍眼的波浪线
+===================================
 
 |image0|
 
-在一个项目中，会有许多的比较关键的代码逻辑入口，比如我使用的 OpenStack
-框架：
-
--  创建虚拟机的入口
--  删除虚拟机的入口
--  虚拟机迁移的入口
--  等等…
-
-像这种比较关键且打开比较高频的代码，平时就可以收藏起来，等到要用的时候就不需要从项目树中一层一层的点开，再打开文件，再寻找对应的函数。
-
-加入收藏夹的快捷键是：⌥ + ⇧ + F
-，敲下之后，会让你选择是要加入哪个收藏夹，你也可以选择新建一个收藏夹。
+下面我先给出了一小段代码示例，思考一下，为什么name，my_name
+不会有波浪线，而 myname 和 wangbm 会有波浪线呢？
 
 |image1|
 
-加入收藏夹后，可以再使用快捷键：⌘ +
-2，打开收藏夹工具栏，点击相应的位置进行跳转。
+Pycharm
+本身会实时地对变量名进行检查，如果变量名不是一个已存在的英文单词，就会出现一条波浪线，当一个变量里有多个单词时，Python
+推荐的写法是用下划线来分隔（其他语言可能会习惯使用\ ``驼峰式命名法``
+，但 Python 是使用下划线），所以在 Pycharm 看来 my_name 是规范的，而
+myname 会被当成是一个单词对待，由于它在单词库里并没有它，所以 myname
+是不规范的。
 
-如果你想对收藏夹的名字进行修改，可以右键，有一个 Rename Favorites List
-的按钮。
+每个人的变量命名习惯不一样，如何你在项目里大量使用了 myname
+这种风格的变量命名方法，像下面这样（随便找了一段 cloudinit
+的代码），是让人挺不舒服的，总有一种代码有 bug 的错觉。
 
 |image2|
 
-个人感觉这个功能会书签弱好多，书签可以对位置进行重重名，而收藏夹不能对收藏的位置进行命名。
-
-想了解 书签
-的使用方法的，可以点击这里：\ `在项目中使用书签，快速定位 <http://pycharm.iswbm.com/en/latest/c06/c06_02.html>`__
-
---------------
+那么如何关闭这个非语法级别的波浪线呢？很简单，它的开关就在你的右下角那个像
+人头像 一样的按钮
 
 |image3|
 
+然后选择 ``Syntax`` 级别的即可。同样一段代码，效果如下，干净了很多。
+
+|image4|
+
+|image5|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200829223345663.png
-.. |image2| image:: http://image.iswbm.com/20200829223552.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.python-online.cn/FtFPI89AOKmPLNpNxf-jdkn1BDLW
+.. |image2| image:: http://image.python-online.cn/FiKyU6tjQauWXfaVfKLhwi3NkXBf
+.. |image3| image:: http://image.python-online.cn/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
+.. |image4| image:: http://image.python-online.cn/FgJCtNYkjPfBaTbRxwb3Z6icHqkf
+.. |image5| image:: http://image.iswbm.com/20200607174235.png
 

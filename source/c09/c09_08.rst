@@ -1,38 +1,7 @@
-9.8 【高效编辑 08】历史剪切板的使用：Paste from History
-=======================================================
-
-.. figure:: http://image.iswbm.com/20200804124133.png
-   :alt: img
-
-   img
-
-在 Windows 上有一个剪切板神器 - ``Ditto``
-，它可以将你间经复制粘贴过的内容都保存下来，以便你重复使用。
-
-在 Mac 上有一个神器 ，叫 Alfred ，它也有类似的功能。
-
-如果你没有使用过 Ditto 和 Alfred ，不要紧，其实 PyCharm 也有这样的功能。
-
-只要你按住 ``Command + Shift + V`` （Windows 上是 ``Ctrl + Shift + V``
-）就可以调出像下面这样的剪切板。
-
-这里我提前准备了几种编程语言的 Hello World ，效果如下：
-
-.. figure:: http://image.python-online.cn/20191211210012.png
-   :alt: img
-
-   img
-
-你可以通过右键调出此窗口
+8.8 【必学技巧 08】
+===================
 
 |image0|
 
---------------
-
-.. figure:: http://image.iswbm.com/20200607174235.png
-   :alt: img
-
-   img
-
-.. |image0| image:: http://image.iswbm.com/20200826123123.png
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
 

@@ -1,41 +1,33 @@
-8.4 【必学技巧 04】以列为单位的块编辑
-=====================================
+5.4 【插件神器 04】正则表达式测试：Regex Tester
+===============================================
 
 |image0|
 
-先给你出道小题，像下面这段代码，如果在不影响代码的情况下，快速删除后面代码后面的注释呢？
+Regex Tester是PyCharm的第三方插件，可以测试正则表达式。
+
+按照下图入口，安装 Regex Tester 插件：
 
 |image1|
 
-我能想到的有两种方法，如果像如上这种有规律的注释，可以使用 ``正则匹配``
-+ ``替换`` 来实现。
+安装完成后，无需重启 PyCharm ，点击 PyCharm
+界面左下方的小矩形按钮，就能找到 Regex Tester 选项。
 
 |image2|
 
-对于这个场景我想到了可以用 vim来轻松的解决，vim
-支持块编辑，可以以列为单位选择区域然后进行操作，这在vim中是很常用的一个取消注释的操作。
+点击进入后，就出现了如下界面。我随手写了个匹配手机号码的正则（不一定准确），匹配到的字符串背景会被高亮。右上方还有一些选项如大小写敏感，多行模式等，可根据需要进行选择。Regex
+Tester 还提供了Split，Replace功能等。
 
-同样回到 PyCharm 中来，你会发现它也支持块编辑。
-
-如果你使用的是旧版本的 PyCharm ，当你按住
-alt（windows）或者option（mac），然后使用鼠标进行选择，你会发现这样一件神奇的事情。
+使用效果如下：
 
 |image3|
 
-如若上面的快捷键不生效，说明你的 PyCharm
-是旧版本，在较版本中，有两种方法开启列选择模式
-
-1、使用快捷键 Command + shift + 8
-
-2、点击右键，选择 『Column Selection Mode』
-
-在新版本中，列选择的功能变成了一种模式，开启才能使用，使用完后还需要关闭。相比旧版本，个人认为这个改变不好，不能即用即走。
+--------------
 
 |image4|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190721132238.png
-.. |image2| image:: http://image.python-online.cn/20190721133403.png
-.. |image3| image:: https://i.loli.net/2019/07/21/5d3401410087b61815.gif
+.. |image1| image:: http://image.iswbm.com/20200826221102.png
+.. |image2| image:: http://image.iswbm.com/20200826221243.png
+.. |image3| image:: http://image.iswbm.com/20200826221837.png
 .. |image4| image:: http://image.iswbm.com/20200607174235.png
 

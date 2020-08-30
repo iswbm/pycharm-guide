@@ -1,24 +1,44 @@
-8.11 【必学技巧 11】显示类继承关系图：Show Diagrams
-===================================================
+5.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook
+====================================================
 
 |image0|
 
-在阅读一些比较庞大的项目时，如果类的继承关系比较复杂，会给我们阅读源码带来不小的阻碍。
+使用 Jupyter 之前 ，先要安装它
 
-面对这种情况，本篇的这个技巧就能派上用场了。
+.. code:: shell
 
-在你想查看继承关系的 类 中，右键选择 ``Diagrams`` -> ``Show Diagram``
+   $ pip install jupyter
+
+然后按照下图指示新建一个 Notebook ，就可以开始运作了。
 
 |image1|
 
-就会新增一个窗口，使用 UML 为你展示该类的继承关系。
+这个界面感觉和 Jupyter 的风格不太符
 
 |image2|
 
+但是使用上是没有什么区别的，记住三个快捷键就好(下面指的是 Mac
+上的，Windows 上的有所不同)
+
+-  Ctrl+Enter：运行该 cell
+-  Option + shift + Enter：调试该 cell
+-  Shift + Enter：插入一个新的 cell
+
 |image3|
 
+只要你安装了 Jupyter 后，你使用 Python Console 也会自动变成 Jupyter
+的模式
+
+|image4|
+
+--------------
+
+|image5|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200826133115567.png
-.. |image2| image:: http://image.iswbm.com/image-20200826133133564.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200827204703.png
+.. |image2| image:: http://image.iswbm.com/20200827204918.png
+.. |image3| image:: http://image.iswbm.com/20200827205529.png
+.. |image4| image:: http://image.iswbm.com/20200827205742.png
+.. |image5| image:: http://image.iswbm.com/20200607174235.png
 

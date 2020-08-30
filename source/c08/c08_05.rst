@@ -1,2 +1,25 @@
-8.5 【必学技巧 05】
-===================
+5.5 【绝佳工具 01】在Windows上使用 Bash 命令
+============================================
+
+|image0|
+
+在 Windows 上的 cmd 命令和 Linux
+命令有不少的差异，比如要列出当前目录下的所有文件，Windows 上是用 ``dir``
+，而 Linux 上则是用 ``ls -l`` 。
+
+对于像我这样熟悉 Linux 的开发者来说，Windows 的 那些 CMD
+命令带来的糟糕体验是无法忍受的。
+
+|image1|
+
+在弹出的 Bash 窗口，你可以敲入你想使用的 Linux 命令，是不是舒服多了。
+
+|image2|
+
+|image3|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20191211212546.png
+.. |image2| image:: http://image.python-online.cn/20191222143741.png
+.. |image3| image:: http://image.iswbm.com/20200607174235.png
+

@@ -1,23 +1,29 @@
-9.3 【高效编辑 03】实现接口方法的正确姿势
-=========================================
-
-当你想要在类里，实现基类的一个方法时。
-
-通常都是人工定义一个函数，然后写具体的逻辑。
-
-如果你使用了 PyCharm 还要如此笨拙的方式，那真是埋没了这么好的软件了。
-
-在 PyCharm 中正确复写父类方法的姿势 是使用快捷键：⌘ + I （注意是字母
-I，不是数字 1）。
-
-效果如下：
+8.3 【必学技巧 03】智能补全，忽略大小写
+=======================================
 
 |image0|
 
---------------
+智能搜索补全，是IDE的最吸引人的功能之一。
+
+当你的对象是以大写字母开头时，而你使用小写字母编写代码时，是不能查找到该函数的，你必须得先切换成大写再输入一遍。
 
 |image1|
 
-.. |image0| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2017.39.16.gif
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
+如何避免这种尴尬的情况？
+
+只要在配置中关闭大小写匹配即可。
+
+|image2|
+
+效果如下：
+
+|image3|
+
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.python-online.cn/20190721141327.png
+.. |image2| image:: http://image.python-online.cn/20190721141653.png
+.. |image3| image:: http://image.python-online.cn/20190721141751.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
 

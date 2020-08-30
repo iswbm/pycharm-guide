@@ -1,29 +1,24 @@
-5.3 【插件神器 03】在 PyCharm 中写 Markdown
-===========================================
+3.3 【提高效率 03】一套快捷键，精准打开工具栏
+=============================================
 
 |image0|
 
-富文本排版文档是一件非常痛苦的事情 ，对于程序员写文档，最佳的推荐是使用
-Markdown ，我所有的博客日记都是使用 Markdown 写出来的。
+在 PyCharm 的功能强大，每一处的空间都不值得浪费。
 
-从
-Github下载的代码一般也都会带有README.md文件，该文件是一个Markdown格式的文件。
+在它的四周，我们可以看到一堆的按钮，点开这些按钮，会出来相应的功能窗口。
 
-PyCharm是默认没有安装Markdown插件的，所以不能按照Markdown格式显示文本，显示的是原始文本。
+如果使用鼠标去一个一个点击，诺大的屏幕上找准一个位置点击这就是对精神的极大消耗，那有没有办法可以可以用快捷键来控制呢？
 
-因此，如果要在 PyCharm 中阅读 Markdown 文档，可以装一下 Markdown support
-这个插件。
+点击 ``View`` -> ``Tool Windows``
+可以看到当前打开了哪些窗口（对于未打开的窗口并不会展示在这里），同时也可以看到它们的快捷键。
 
-安装的方法有两种：
-
-1、第一种，最方便的，就是你打开一个 MD 的文档，PyCharm
-就会提示你安装它。
-
-2、从插件商店中搜索安装。
+仔细观察，不难发现，其实在按钮上的最前面已经提示了快捷键的序号。所以即使你忘记了也没关系，只要用眼睛瞟一下看一下序号，再在序号前面按个
+Command 就行了。
 
 |image1|
 
-效果如下
+如果你想设置或修改他们的快捷键，可以在 ``Keymap`` -> ``Tool Windows``
+中设置
 
 |image2|
 
@@ -32,7 +27,7 @@ PyCharm是默认没有安装Markdown插件的，所以不能按照Markdown格式
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200827130349.png
-.. |image2| image:: http://image.iswbm.com/20200827130420.png
+.. |image1| image:: http://image.iswbm.com/20200828084019.png
+.. |image2| image:: http://image.iswbm.com/20200828083810.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

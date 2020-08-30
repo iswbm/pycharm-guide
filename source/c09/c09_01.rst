@@ -1,26 +1,35 @@
-9.1 【高效编辑 01】重写父类方法的正确姿势
-=========================================
+8.1 【必学技巧 01】轻松实现 JSON格式化
+======================================
 
 |image0|
 
-当你想要在子类里，复写父类的一个方法时。
+如下是一个未经美化的 json 文件，当一个 json
+文件的内容很多时，若不经过工具重新美化，想要从中提取出有效的信息是一件很困难的事情。
 
-通常都是人工定义一个函数，然后再写 super 表达式。
+.. code:: json
 
-如果你使用了 PyCharm 还要如此笨拙的方式，那真是埋没了这么好的软件了。
+   {"profile":{"name":"明哥", "gender": "male", "age": 18, "公众号": "Python编程时光", "msg": "欢迎大家关注我的公众号！"}}
 
-在 PyCharm 中正确复写父类方法的姿势 是使用快捷键：⌘ + O （注意是字母
-O，不是数字 0）。
-
-效果如下：
+以前我经常使用一些在线的网站，比如：https://tool.oschina.net/codeformat/json
 
 |image1|
 
---------------
+如果你的电脑无法连网，或者不喜欢多记一个网址，完全可以使用 PyCharnm
+来解决这一诉求
+
+没有经过美化是这样的：
 
 |image2|
 
+按住 ``Ctrl+Alt+L``\ 经过美化后是这样的
+
+|image3|
+
+|image4|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.25.11.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.python-online.cn/20191211211309.png
+.. |image2| image:: http://image.python-online.cn/20191211211334.png
+.. |image3| image:: http://image.python-online.cn/20191211211626.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
 

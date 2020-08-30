@@ -1,29 +1,38 @@
-8.3 【必学技巧 03】智能补全，忽略大小写
-=======================================
+5.3 【插件神器 03】在 PyCharm 中写 Markdown
+===========================================
 
 |image0|
 
-智能搜索补全，是IDE的最吸引人的功能之一。
+富文本排版文档是一件非常痛苦的事情 ，对于程序员写文档，最佳的推荐是使用
+Markdown ，我所有的博客日记都是使用 Markdown 写出来的。
 
-当你的对象是以大写字母开头时，而你使用小写字母编写代码时，是不能查找到该函数的，你必须得先切换成大写再输入一遍。
+从
+Github下载的代码一般也都会带有README.md文件，该文件是一个Markdown格式的文件。
+
+PyCharm是默认没有安装Markdown插件的，所以不能按照Markdown格式显示文本，显示的是原始文本。
+
+因此，如果要在 PyCharm 中阅读 Markdown 文档，可以装一下 Markdown support
+这个插件。
+
+安装的方法有两种：
+
+1、第一种，最方便的，就是你打开一个 MD 的文档，PyCharm
+就会提示你安装它。
+
+2、从插件商店中搜索安装。
 
 |image1|
 
-如何避免这种尴尬的情况？
-
-只要在配置中关闭大小写匹配即可。
+效果如下
 
 |image2|
 
-效果如下：
+--------------
 
 |image3|
 
-|image4|
-
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190721141327.png
-.. |image2| image:: http://image.python-online.cn/20190721141653.png
-.. |image3| image:: http://image.python-online.cn/20190721141751.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200827130349.png
+.. |image2| image:: http://image.iswbm.com/20200827130420.png
+.. |image3| image:: http://image.iswbm.com/20200607174235.png
 

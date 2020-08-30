@@ -1,44 +1,98 @@
-3.1 【提高效率 01】复杂操作，录制成宏
+2.1 【界面改造 01】打造颜值超高的界面
 =====================================
 
 |image0|
 
-如果你在使用PyCharm
-的时候，遇到有一些操作是比较复杂（步骤多），且使用频率特别高。
+1. 你的IDE
+----------
 
-那可以考虑一下，使用其自带的宏录制工具。
-
-它会将你的一连串操作，录制下来。等你想用的时候，直接调用就行了。
-
-这边，我以录制一个 ``删除函数`` 的宏为例：先按上面的方法折叠函数，再按
-Command+y 删除该行，就删除了该函数。
-
-做录制方法如下：
+当你从官网上下载下来一个 PyCharm
+后，若你不对其进行一些个性化设置，相信你一定无法容忍默认的丑陋界面，就像下面这样子。
 
 |image1|
 
-(GIF动态只播放两次，重播请刷新页面)
+上面这个界面，有很多可以吐槽的地方，我全部标了出来：
 
-录制好后，你可以先定位到你要删除的函数处，点菜单栏 Edit - Macro
-然后选择我们刚刚录制的宏，就可以播放宏了。
+1. 菜单栏的英文太丑，字体太奇怪。和标题栏字体的大小这极不协调。
 
-这样播放宏显得有点繁琐，个人建议你为这个宏定义一个快捷键，这样会更方便播放宏。
+2. 中文字体太丑，字体和右边代码对比，真的没法看。
+
+3. 背景全白，伤眼我就不说了，一点极客的感觉都没有。
+
+4. 代码字体太丑，太小，代码高亮体验太差。
+
+一个美观的 IDE
+界面，能提高写代码的愉悦性，下面我会针对上面提出的问题，介绍下我是如何打造出一个适合我的、高颜值的
+IDE 界面。
+
+2. 如何打造
+-----------
+
+先来解决第一、二、三的问题。
+
+点击 File - Setting 进入如下界面，按图中设置对应参数。
 
 |image2|
 
-设置快捷键时，注意不要和已有的快捷键冲突。
-
-设置好后，查看 Macro，发现PyCharm已经将这个快捷键绑定给这个宏。
+设置完成，点击 A1.11wwdddqpply 或者 OK，看下效果图。
 
 |image3|
 
-之后你就可以使用这个快捷键删除一个函数（其实这只是删除一个代码块，但是这里只讨论设置方法）。
+是不是舒服多了。
+
+再来解决第四个问题。
+
+点击 File - Setting 进入如下界面，按图中设置对应参数。
 
 |image4|
 
+这个可以达到什么效果呢，emm，是不是一种黑客即视感。
+
+|image5|
+
+当然，你如果对这个高亮的颜色不是很满意，你还可以进行定制。修改完后，下面会有预览窗口。非常方便。
+
+|image6|
+
+后来看下\ **整体效果**\ 。
+
+|image7|
+
+3. 主题下载
+-----------
+
+Pycharm
+给我们提供的主题很有限，只有几个。但是提供定制功能，这个可以点赞。但是并不是人人都有那艺术细胞去花费大量精力弄一个非常好看的主题。
+
+在这里，我给你介绍几个非常好用的主题下载网站。
+1、\ *http://color-themes.com* 2、\ *http://www.themesmap.com*
+
+支持 JetBrains全系列主题下载，包括:InteliJ IDEA, PhpStorm, PyCharm,
+RubyMine, WebStorm and AppCode.
+
+|image8|
+
+下载下来后，是一个\ ``jar``\ 包。 你需要通过 File - Import Settings
+导入。
+
+|image9|
+
+最后，在 File - Setting - Editor - Colors & Fonts 里选择导入的主题。
+
+|image10|
+
+|image11|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: https://i.loli.net/2019/06/29/5d176e9ba92e916696.gif
-.. |image2| image:: http://image.python-online.cn/20190629221224.png
-.. |image3| image:: http://image.python-online.cn/20190629221547.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200823105736.png
+.. |image2| image:: http://image.iswbm.com/20200823105809.png
+.. |image3| image:: http://image.iswbm.com/20200823105849.png
+.. |image4| image:: http://image.iswbm.com/20200823105901.png
+.. |image5| image:: http://image.iswbm.com/20200823105947.png
+.. |image6| image:: http://image.iswbm.com/20200823105956.png
+.. |image7| image:: http://image.iswbm.com/20200823110014.png
+.. |image8| image:: http://image.iswbm.com/20200823110134.png
+.. |image9| image:: http://image.iswbm.com/20200823110516.png
+.. |image10| image:: http://image.iswbm.com/20200823110505.png
+.. |image11| image:: http://image.iswbm.com/20200607174235.png
 

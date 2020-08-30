@@ -1,37 +1,34 @@
-3.4 【提高效率 04】使用模板，快速捕获异常
-=========================================
+2.4 【界面改造 04】开启多行标签页
+=================================
 
 |image0|
 
-当你想要对一个代码块进行异常捕获时，你是怎么做的呢？
+PyCharm 打开一个文件，就占用一个标签面。
 
-先在上面写个 try，然后对代码块缩进，然后写 excep ..
-
-这种方法，比较生硬，而且效率极差。
-
-这里推荐一种方法，可以使用 ``try...except...`` 快速包围代码。
-
-效果如下
-
-1. 先选中代码块
-2. 按住 ⌘ + ⌥ + T
-3. 选择 ``try/except`` 模板
+你有没有发现，不知不觉地，打开的文件越来越多，多到一行标签都装不下，装不下的标签页
+PyCharm 会将其隐藏起来，并以数字的形式告诉你隐藏了几个文件。
 
 |image1|
 
-从下拉的选项来看，除了 try/except 和 try/finally 外，还有：
+点击数字5，你才可以查看隐藏了哪些文件。
 
--  if
--  while
--  Comments
+这时你肯定会说，一行装不下 PyCharm 为什么不能多行显示呢？
 
-但是这些，相对于使用原始的方法，个人感觉并没有更简便，因为该项功能，我更多的是使用捕获异常。
+答案是，不是不能，而是需要你设置。
 
---------------
+如下图，将单行显示取消勾选即可。
 
 |image2|
 
+设置完后，有哪些文件就非常清晰了。
+
+|image3|
+
+|image4|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2011.11.37.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.python-online.cn/20190629223534.png
+.. |image2| image:: http://image.python-online.cn/20190629224229.png
+.. |image3| image:: http://image.python-online.cn/20190629224430.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
 

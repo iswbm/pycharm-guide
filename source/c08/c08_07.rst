@@ -1,32 +1,51 @@
-8.7 【必学技巧 07】tab和空格混用自动转换
-========================================
+5.7 【绝佳工具 03】HTTP接口调试：Test RESTful Web Service
+=========================================================
 
 |image0|
 
-在团队协作中，你难免会动到别人编辑的文件，有的人喜欢做tab做缩进，有的人喜欢用四个空格做缩进。
+PyCharm 的 Test RESTful Web
+Service工具提供了RESTful接口测试界面，如下图所示，提供了get、post，put等http方法，其中的Request子界面headers，Parameters，Body等功能，Response子界面用于显示返回值，Response
+Headers用于显示返回的消息头。
 
-但是在同一个Python文件模块里，tab 和
-四个空格缩进两种风格是不能共存的。这就需要你按照该文件原来的缩进风格来进行编码，在
-Pycharm
-里，可以设置自动检测原文件的缩进风格来决定当你使用tab键缩进的时候，是TAB还是四个空格。
+为了演示，我先使用 Flask 写一个 HTTP 接口
 
-在图示位置打勾即可开启自动检测。
+.. code:: python
+
+   from flask import Flask, request
+
+   app = Flask(__name__)
+
+
+   @app.route('/hello')
+   def index():
+       name = request.args.get('name')
+       return '你好，' + name
+
+   if __name__ == '__main__':
+       app.run()
+
+并运行它开启服务，访问地址是：http://127.0.0.1:5000/
 
 |image1|
 
-上面是对一个旧的 Python 模块进行修改时，如何决定当前编辑的缩进方式。
-
-而对于新建模块，默认的缩进方式，是如何确定的？
-
-如下图，若在 ``Use tab character`` 打上勾，则你新建一个 Python
-后，就会使用 TAB 进行缩进，反之，则使用四个空格进行缩进。
+通过下图方式打开 ``Test RESTful Web Service``
 
 |image2|
 
+会出现如下界面，在红框处填写如下信息
+
 |image3|
 
+然后点击最左边的运行按钮，即可向服务器发送 http 请求。
+
+|image4|
+
+|image5|
+
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190423162328.png
-.. |image2| image:: http://image.python-online.cn/20190423163341.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200825075118.png
+.. |image2| image:: http://image.iswbm.com/20200825073354.png
+.. |image3| image:: http://image.iswbm.com/20200825075226.png
+.. |image4| image:: http://image.iswbm.com/20200825075434.png
+.. |image5| image:: http://image.iswbm.com/20200607174235.png
 

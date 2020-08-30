@@ -1,41 +1,38 @@
-2.2 【界面改造 02】关闭碍眼的波浪线
-===================================
+4.2 【运行技巧 02】通过指定参数，执行程序
+=========================================
 
 |image0|
 
-下面我先给出了一小段代码示例，思考一下，为什么name，my_name
-不会有波浪线，而 myname 和 wangbm 会有波浪线呢？
+你在 Pycharm 运行你的项目，通常是怎么执行的？我的做法是，右键，然后点击
+``Run``\ ，或者使用快捷键 ``Shift + F10`` 。
+
+有时候，在运行/调试脚本的时候，我们需要指定一些参数，这在命令行中，直接指定即可。
+
+假设在命令行中，运行脚本的命令是这样
+
+.. code:: shell
+
+   python main.py init --local
+
+对于刚使用 Pycharm 的同学，可能并不知道 Pycharm
+也是可以指定参数的。点击下图位置
 
 |image1|
 
-Pycharm
-本身会实时地对变量名进行检查，如果变量名不是一个已存在的英文单词，就会出现一条波浪线，当一个变量里有多个单词时，Python
-推荐的写法是用下划线来分隔（其他语言可能会习惯使用\ ``驼峰式命名法``
-，但 Python 是使用下划线），所以在 Pycharm 看来 my_name 是规范的，而
-myname 会被当成是一个单词对待，由于它在单词库里并没有它，所以 myname
-是不规范的。
-
-每个人的变量命名习惯不一样，如何你在项目里大量使用了 myname
-这种风格的变量命名方法，像下面这样（随便找了一段 cloudinit
-的代码），是让人挺不舒服的，总有一种代码有 bug 的错觉。
+进入设置面板，在 ``Script parameters`` 中填入参数即可。
 
 |image2|
 
-那么如何关闭这个非语法级别的波浪线呢？很简单，它的开关就在你的右下角那个像
-人头像 一样的按钮
+同时在上图的底部，你可以看到，这里可以很方便的切换
+解释器，比你跑到这边来要容易得多吧
 
 |image3|
 
-然后选择 ``Syntax`` 级别的即可。同样一段代码，效果如下，干净了很多。
-
 |image4|
 
-|image5|
-
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/FtFPI89AOKmPLNpNxf-jdkn1BDLW
-.. |image2| image:: http://image.python-online.cn/FiKyU6tjQauWXfaVfKLhwi3NkXBf
-.. |image3| image:: http://image.python-online.cn/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
-.. |image4| image:: http://image.python-online.cn/FgJCtNYkjPfBaTbRxwb3Z6icHqkf
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.python-online.cn/FmfL3r0iWx_srT_xMASBEp1ZaaId
+.. |image2| image:: http://image.python-online.cn/FujczKwTUPa8l5EEmS0eoh-zL1Nk
+.. |image3| image:: http://image.python-online.cn/Fq60WOdcRJopqV6MVoRcIuZclYKx
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
 
