@@ -1,6 +1,8 @@
 6.12 【导航技巧 05】不使用鼠标，操作目录打开文件
 ================================================
 
+|image0|
+
 在隐藏目录树的情况下，如果你想切换到一个还未打开的文件，你可以试一下快捷键：
 ⌥ + Home
 
@@ -9,12 +11,13 @@
 -  ↑：打开目录，展示目录下的所有文件
 -  Enter：进入选中的目录，或者打开选中的文件
 
-|image0|
+|image1|
 
 --------------
 
-|image1|
+|image2|
 
-.. |image0| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2014.36.24.gif
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2014.36.24.gif
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
 

@@ -1,4 +1,4 @@
-9.8 【高效编辑 08】历史剪切板的使用：Paste from History
+4.8 【高效编辑 08】历史剪切板的使用：Paste from History
 =======================================================
 
 .. figure:: http://image.iswbm.com/20200804124133.png

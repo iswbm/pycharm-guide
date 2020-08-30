@@ -1,17 +1,20 @@
 6.11 【导航技巧 04】显示最近打开过的文件
 ========================================
 
+|image0|
+
 如果你关掉了一个文件标签页，而后面还想打开。再去项目树中一个一个查找打开是比较麻烦的。
 
 不防试试快捷键： ⌘ + E
 ，可以直接调出你曾经打开过的文件，甚至可以点击如下按钮选择有修改过的文件。
 
-|image0|
+|image1|
 
 --------------
 
-|image1|
+|image2|
 
-.. |image0| image:: http://image.iswbm.com/image-20200829143014675.png
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/image-20200829143014675.png
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
 

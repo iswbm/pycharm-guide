@@ -1,4 +1,4 @@
-5.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook
+8.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook
 ====================================================
 
 |image0|
