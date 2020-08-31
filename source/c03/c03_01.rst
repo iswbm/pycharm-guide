@@ -34,11 +34,9 @@ IDE 界面。
 
 |image2|
 
-设置完成，点击 A1.11wwdddqpply 或者 OK，看下效果图。
+设置完成，点击 Apply 或者 OK，看下效果图，是不是舒服多了。
 
 |image3|
-
-是不是舒服多了。
 
 再来解决第四个问题。
 
@@ -46,15 +44,13 @@ IDE 界面。
 
 |image4|
 
-这个可以达到什么效果呢，emm，是不是一种黑客即视感。
-
 |image5|
 
-当然，你如果对这个高亮的颜色不是很满意，你还可以进行定制。修改完后，下面会有预览窗口。非常方便。
+设置完这个后，你的代码就会有一种黑客即视感。
 
 |image6|
 
-后来看下\ **整体效果**\ 。
+当然，你如果对这个高亮的颜色不是很满意，你还可以进行定制。修改完后，下面会有预览窗口。非常方便。
 
 |image7|
 
@@ -85,14 +81,14 @@ RubyMine, WebStorm and AppCode.
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
 .. |image1| image:: http://image.iswbm.com/20200823105736.png
-.. |image2| image:: http://image.iswbm.com/20200823105809.png
-.. |image3| image:: http://image.iswbm.com/20200823105849.png
-.. |image4| image:: http://image.iswbm.com/20200823105901.png
-.. |image5| image:: http://image.iswbm.com/20200823105947.png
-.. |image6| image:: http://image.iswbm.com/20200823105956.png
-.. |image7| image:: http://image.iswbm.com/20200823110014.png
+.. |image2| image:: http://image.iswbm.com/20200831113012.png
+.. |image3| image:: http://image.iswbm.com/20200831113110.png
+.. |image4| image:: http://image.iswbm.com/20200831113244.png
+.. |image5| image:: http://image.iswbm.com/20200831113421.png
+.. |image6| image:: http://image.iswbm.com/20200823105947.png
+.. |image7| image:: http://image.iswbm.com/20200823105956.png
 .. |image8| image:: http://image.iswbm.com/20200823110134.png
 .. |image9| image:: http://image.iswbm.com/20200823110516.png
-.. |image10| image:: http://image.iswbm.com/20200823110505.png
+.. |image10| image:: http://image.iswbm.com/20200831113606.png
 .. |image11| image:: http://image.iswbm.com/20200607174235.png
 

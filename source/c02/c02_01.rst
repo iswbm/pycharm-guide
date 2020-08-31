@@ -63,8 +63,8 @@ Python 解释器。
 
 这一种方法，可以让你在任意地方编写小段的测试代码，而不用新开一个文件。
 
-具体方法我在 `5.8 【绝佳工具 06】选择执行：Execute Selection in
-Console <http://pycharm.iswbm.com/en/latest/c05/c05_06.html>`__
+具体方法我在\ `8.8【绝佳工具 04】选择执行：Execute Selection in
+Console <http://pycharm.iswbm.com/zh_CN/latest/c08/c08_08.html>`__
 有详细的介绍使用方法，可以点击前往。
 
 3. 运行相关的快捷键

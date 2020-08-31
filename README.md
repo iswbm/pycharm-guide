@@ -116,7 +116,7 @@
    * [9.16 【必学技巧 15】在Terminal 中打开文件夹](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_16.html)
 
 
-## 附录
+## 附录  
 
 - [PyCharm 快捷键 Mac 版 ](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf)
 - [PyCharm 快捷键 Win 版](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
