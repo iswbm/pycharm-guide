@@ -32,9 +32,9 @@ main，然后就可以直接生成如下这段平时都要手动敲入的代码�
 |image6|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190323225704.png
-.. |image2| image:: http://image.python-online.cn/20190323225631.png
-.. |image3| image:: http://image.python-online.cn/20190323232017.png
+.. |image1| image:: http://image.iswbm.com/20190323225704.png
+.. |image2| image:: http://image.iswbm.com/20190323225631.png
+.. |image3| image:: http://image.iswbm.com/20190323232017.png
 .. |image4| image:: https://i.loli.net/2019/03/23/5c965275bf0d7.gif
 .. |image5| image:: https://i.loli.net/2019/03/23/5c9653e1b757a.gif
 .. |image6| image:: http://image.iswbm.com/20200607174235.png

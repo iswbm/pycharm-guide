@@ -41,7 +41,7 @@ TODO 面板。如果你是 Mac， 快捷键 是Command + 6，而 Windows 是 Alt
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190616231649.png
-.. |image2| image:: http://image.python-online.cn/20190616232527.png
+.. |image1| image:: http://image.iswbm.com/20190616231649.png
+.. |image2| image:: http://image.iswbm.com/20190616232527.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

@@ -34,8 +34,8 @@ alt（windows）或者option（mac），然后使用鼠标进行选择，你会�
 |image4|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190721132238.png
-.. |image2| image:: http://image.python-online.cn/20190721133403.png
+.. |image1| image:: http://image.iswbm.com/20190721132238.png
+.. |image2| image:: http://image.iswbm.com/20190721133403.png
 .. |image3| image:: https://i.loli.net/2019/07/21/5d3401410087b61815.gif
 .. |image4| image:: http://image.iswbm.com/20200607174235.png
 

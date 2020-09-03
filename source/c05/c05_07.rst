@@ -35,8 +35,8 @@
 |image4|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20191222141905.png
-.. |image2| image:: http://image.python-online.cn/20191222141955.png
-.. |image3| image:: http://image.python-online.cn/20191222142223.png
+.. |image1| image:: http://image.iswbm.com/20191222141905.png
+.. |image2| image:: http://image.iswbm.com/20191222141955.png
+.. |image3| image:: http://image.iswbm.com/20191222142223.png
 .. |image4| image:: http://image.iswbm.com/20200607174235.png
 

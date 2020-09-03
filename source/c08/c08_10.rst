@@ -32,7 +32,7 @@ Java，需要将代码编译成机器可识别的语言才可运行，在编译�
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190616211359.png
-.. |image2| image:: http://image.python-online.cn/20190616214310.png
+.. |image1| image:: http://image.iswbm.com/20190616211359.png
+.. |image2| image:: http://image.iswbm.com/20190616214310.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

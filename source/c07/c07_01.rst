@@ -66,13 +66,13 @@
 |image9|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20191211100048.png
-.. |image2| image:: http://image.python-online.cn/20191211100657.png
-.. |image3| image:: http://image.python-online.cn/20191211101706.png
-.. |image4| image:: http://image.python-online.cn/20191211101845.png
-.. |image5| image:: http://image.python-online.cn/20191211102501.png
-.. |image6| image:: http://image.python-online.cn/20191211102826.png
-.. |image7| image:: http://image.python-online.cn/20191211133836.png
-.. |image8| image:: http://image.python-online.cn/20191211143510.png
+.. |image1| image:: http://image.iswbm.com/20191211100048.png
+.. |image2| image:: http://image.iswbm.com/20191211100657.png
+.. |image3| image:: http://image.iswbm.com/20191211101706.png
+.. |image4| image:: http://image.iswbm.com/20191211101845.png
+.. |image5| image:: http://image.iswbm.com/20191211102501.png
+.. |image6| image:: http://image.iswbm.com/20191211102826.png
+.. |image7| image:: http://image.iswbm.com/20191211133836.png
+.. |image8| image:: http://image.iswbm.com/20191211143510.png
 .. |image9| image:: http://image.iswbm.com/20200607174235.png
 

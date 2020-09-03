@@ -74,8 +74,8 @@ Graph（调用关系图）界面直观展示了各函数直接的调用关系、
 |image4|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190507222856.png
-.. |image2| image:: http://image.python-online.cn/20190507222119.png
-.. |image3| image:: http://image.python-online.cn/20190507223313.png
+.. |image1| image:: http://image.iswbm.com/20190507222856.png
+.. |image2| image:: http://image.iswbm.com/20190507222119.png
+.. |image3| image:: http://image.iswbm.com/20190507223313.png
 .. |image4| image:: http://image.iswbm.com/20200607174235.png
 

@@ -23,6 +23,6 @@ word、excel，还有资源管理器）的背景色都设置为
 |image2|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190721143450.png
+.. |image1| image:: http://image.iswbm.com/20190721143450.png
 .. |image2| image:: http://image.iswbm.com/20200607174235.png
 

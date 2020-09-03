@@ -33,8 +33,8 @@ F2：跳转到下一个有错误的行
 |image4|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190613154147.png
-.. |image2| image:: http://image.python-online.cn/20190613154401.png
-.. |image3| image:: http://image.python-online.cn/20190613160905.png
+.. |image1| image:: http://image.iswbm.com/20190613154147.png
+.. |image2| image:: http://image.iswbm.com/20190613154401.png
+.. |image3| image:: http://image.iswbm.com/20190613160905.png
 .. |image4| image:: http://image.iswbm.com/20200607174235.png
 

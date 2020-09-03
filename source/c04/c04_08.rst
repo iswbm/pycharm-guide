@@ -18,7 +18,7 @@
 
 这里我提前准备了几种编程语言的 Hello World ，效果如下：
 
-.. figure:: http://image.python-online.cn/20191211210012.png
+.. figure:: http://image.iswbm.com/20191211210012.png
    :alt: img
 
    img

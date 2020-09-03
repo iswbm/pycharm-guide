@@ -33,9 +33,9 @@ myname 会被当成是一个单词对待，由于它在单词库里并没有它�
 |image5|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/FtFPI89AOKmPLNpNxf-jdkn1BDLW
-.. |image2| image:: http://image.python-online.cn/FiKyU6tjQauWXfaVfKLhwi3NkXBf
-.. |image3| image:: http://image.python-online.cn/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
-.. |image4| image:: http://image.python-online.cn/FgJCtNYkjPfBaTbRxwb3Z6icHqkf
+.. |image1| image:: http://image.iswbm.com/FtFPI89AOKmPLNpNxf-jdkn1BDLW
+.. |image2| image:: http://image.iswbm.com/FiKyU6tjQauWXfaVfKLhwi3NkXBf
+.. |image3| image:: http://image.iswbm.com/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
+.. |image4| image:: http://image.iswbm.com/FgJCtNYkjPfBaTbRxwb3Z6icHqkf
 .. |image5| image:: http://image.iswbm.com/20200607174235.png
 

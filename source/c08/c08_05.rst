@@ -19,7 +19,7 @@
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20191211212546.png
-.. |image2| image:: http://image.python-online.cn/20191222143741.png
+.. |image1| image:: http://image.iswbm.com/20191211212546.png
+.. |image2| image:: http://image.iswbm.com/20191222143741.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

@@ -59,12 +59,12 @@ debug 模式运行项目，并打断点。
 |image8|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/Fi3N02x9OeOPatGdaReam_icn9G_
-.. |image2| image:: http://image.python-online.cn/Fj1W53Txj0iFs5eYhFYh_dHlPtIL
-.. |image3| image:: http://image.python-online.cn/FlMsB7B1x6ET9mLOgydTWuTEXuOe
-.. |image4| image:: http://image.python-online.cn/FmfL3r0iWx_srT_xMASBEp1ZaaId
-.. |image5| image:: http://image.python-online.cn/FiNCYpVlI93gk1zhOdQn4c0A8FMX
-.. |image6| image:: http://image.python-online.cn/FrAq1tVRM7Bz948wRqZFzU2PQnI0
-.. |image7| image:: http://image.python-online.cn/Fo2aEraqbj_2KqDt44EzJTVe8pEf
+.. |image1| image:: http://image.iswbm.com/Fi3N02x9OeOPatGdaReam_icn9G_
+.. |image2| image:: http://image.iswbm.com/Fj1W53Txj0iFs5eYhFYh_dHlPtIL
+.. |image3| image:: http://image.iswbm.com/FlMsB7B1x6ET9mLOgydTWuTEXuOe
+.. |image4| image:: http://image.iswbm.com/FmfL3r0iWx_srT_xMASBEp1ZaaId
+.. |image5| image:: http://image.iswbm.com/FiNCYpVlI93gk1zhOdQn4c0A8FMX
+.. |image6| image:: http://image.iswbm.com/FrAq1tVRM7Bz948wRqZFzU2PQnI0
+.. |image7| image:: http://image.iswbm.com/Fo2aEraqbj_2KqDt44EzJTVe8pEf
 .. |image8| image:: http://image.iswbm.com/20200607174235.png
 

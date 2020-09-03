@@ -26,7 +26,7 @@ Pycharm
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/20190423162328.png
-.. |image2| image:: http://image.python-online.cn/20190423163341.png
+.. |image1| image:: http://image.iswbm.com/20190423162328.png
+.. |image2| image:: http://image.iswbm.com/20190423163341.png
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 

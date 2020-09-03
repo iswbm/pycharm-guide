@@ -21,7 +21,7 @@
 |image3|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.python-online.cn/FlXynbyxh8tTrCpc4tVLqycL7JQm
-.. |image2| image:: http://image.python-online.cn/FiD91PR1hUu0Ruc6cmZ7EGNM6Be_
+.. |image1| image:: http://image.iswbm.com/FlXynbyxh8tTrCpc4tVLqycL7JQm
+.. |image2| image:: http://image.iswbm.com/FiD91PR1hUu0Ruc6cmZ7EGNM6Be_
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 
