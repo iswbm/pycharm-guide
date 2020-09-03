@@ -16,14 +16,16 @@
 
 ## Contents
 
-![](http://image.iswbm.com/20200830114814.png)
+![](http://image.iswbm.com/20200901220204.png)
 
-- **第一章：安装与运行**
+- **第一章：下载与安装**
    * [1.1 【版本介绍】多个版本的介绍与选择](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_01.html)
-   * [1.2 【免费使用】申请使用免费专业版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_02.html)
-   * [1.3 【永久破解 01】使用专业版的几种方法](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_03.html)
-   * [1.4 【永久破解 02】Win永久激活PyCharm](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_04.html)
-   * [1.5 【永久破解 03】Mac上永久激活 PyCharm](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_05.html)
+   * [1.2 【安装使用 01】下载使用社区版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_02.html)
+   * [1.3 【安装使用 02】使用专业版的五种方法](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_03.html)
+   * [1.4 【免费使用 01】学生和老师可申请免费专业版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_04.html)
+   * [1.5 【免费使用 02】利用开源项目申请免费专业版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_05.html)
+   * [1.6 【永久破解 01】Win永久激活PyCharm](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_06.html)
+   * [1.7 【永久破解 02】Mac上永久激活 PyCharm](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_07.html)
 - **第二章：调试与运行**
    * [2.1 【运行技巧 01】运行 Python 的四种方式](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_01.html)
    * [2.2 【运行技巧 02】通过指定参数，执行程序](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_02.html)
