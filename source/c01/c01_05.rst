@@ -1,60 +1,37 @@
-1.5 【永久破解 03】Mac上永久激活 PyCharm
-========================================
+1.5 【免费使用 02】利用开源项目申请免费专业版
+=============================================
 
 |image0|
 
-本节会教你如何在 Mac 电脑上安装并破解 PyCharm（ 2020.2 版本） 。
+Jetbrains
+鼓励开源，只要你拥有一个符合条件的开源项目，你或者你的团队就可以免费使用
+``JetBrains`` 公司旗下所有的 ``Ultimate`` 版本的 ``IDE``
+开发工具，即全家桶的使用权 ``1`` 年，如果到期了还可以继续申请。
 
-在此之前，有几项准备工作：
+大致的开源项目要求是这个样子的：
 
-1. 下载 2020.2 版本的 PyCharm（写这篇文章时最新的版本），并安装它。
+-  你必须是项目的发起人或是活跃的 ``commiter``
+-  你的项目需要积极开发 ``3`` 个月以上
+-  定期发布版本
+-  符合开源的定义，不能包含有关商业性质的内容
 
-2. 下载破解插件（扫描下方二维码，回复“**破解**” 即可获取下载链接 ）
+如何申请
+--------
 
-|image1|
+申请链接:
+`https://www.jetbrains.com/shop/eform/opensource <https://link.zhihu.com/?target=https%3A//www.jetbrains.com/shop/eform/opensource>`__
 
-下载下来有两个文件，具体怎么用，后面会讲到。
+按表单要求填写即可。
 
-|image2|
+.. figure:: /Users/MING/Library/Application%20Support/typora-user-images/image-20200901215241077.png
+   :alt: image-20200901215241077
 
-以上步骤都比较简单，我也就不废话了。
+   image-20200901215241077
 
-接下来，直接进入破解流程。
+等待个一天左右，你的邮箱估计就能收到激活码了。
 
-启动先前安装的最新版 pycharm ，会提示你激活，我们先选择 Evaluate for
-free ，然后再点击 Evaluate 体验一下。
-
-|image3|
-
-然后就进入了 PyCharm 的界面，将上面下载的破解插件
-``jetbrains-agent-latest.zip`` 直接拖拽入 PyCharm
-的窗口，这就将插件安装到了 PyCharm。
-
-安装完后，会提示你重启。
-
-|image4|
-
-等再次重启后，会弹出如下的界面，要求你填入安装参数。这个参数是什么呢？在上面下载的另一个
-txt 文件里，直接复制过来就ok了。
-
-|image5|
-
-一切完成后，再次进入 PyCharm 界面，点击 ``Help`` -> ``Register...``
-，查看一下注册信息，发现 PyCharm 的使用期限延长到了 2089
-年，相当于永久激活了。
-
-|image6|
-
---------------
-
-|image7|
+|image1|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200822232148.png
-.. |image2| image:: http://image.iswbm.com/20200822231023.png
-.. |image3| image:: http://image.iswbm.com/20200822224451.png
-.. |image4| image:: http://image.iswbm.com/image-20200822225834782.png
-.. |image5| image:: http://image.iswbm.com/20200822225455.png
-.. |image6| image:: http://image.iswbm.com/20200822225534.png
-.. |image7| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/20200607174235.png
 
