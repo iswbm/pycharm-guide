@@ -14,6 +14,16 @@
 
 在线阅读：http://pycharm.iswbm.com
 
+想要精美排版的 200 页 PDF？
+
+![](http://image.iswbm.com/20200907225516.png)
+
+扫码回复关键字即可领取：
+
+![](http://image.iswbm.com/image-20200907225348230.png)
+
+
+
 ## Contents
 
 ![](http://image.iswbm.com/20200901220204.png)
@@ -113,14 +123,10 @@
    * [9.13 【必学技巧 13】把文件设置为只读：Read-Only](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_13.html)
    * [9.14 【必学技巧 14】自动导入解决依赖：Alt+Enter](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_14.html)
    * [9.15 【必学技巧 15】在文件管理器/Finder 中打开文件夹的三种方法](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_15.html)
-   * [9.16 【必学技巧 15】在Terminal 中打开文件夹](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_16.html)
+   * [9.16 【必学技巧 16】在Terminal 中打开文件夹](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_16.html)
 
 
 ## 附录  
 
 - [PyCharm 快捷键 Mac 版 ](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf)
 - [PyCharm 快捷键 Win 版](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
-
----
-
-![](http://image.iswbm.com/20200607174235.png)
