@@ -130,3 +130,4 @@
 
 - [PyCharm 快捷键 Mac 版 ](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf)
 - [PyCharm 快捷键 Win 版](https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf)
+- [PyCharm 官方文档(英文)](https://www.jetbrains.com/help/pycharm/2020.2/quick-start-guide.html)
