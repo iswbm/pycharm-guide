@@ -1,0 +1,31 @@
+8.14 【插件神器 07】JSON美化插件：Json Parser
+=============================================
+
+|image0|
+
+在开发过程中，经常会把校验一串 JSON
+字符串是否合法，在以前我的做法都是打开 https://tool.lu/json/
+这个在线网站，直接美化来校验，只有 JSON
+格式都正确无误合法的，才能够美化。
+
+.. figure:: http://image.iswbm.com/image-20201226184407028.png
+   :alt: img
+
+   img
+
+直到后来发现在 PyCharm 有一个插件专门来做这个事，那就是
+``JSON Parser``\ ，在插件市场安装后，重启 PyCharm
+，就能在右侧边栏中看到它。
+
+.. figure:: http://image.iswbm.com/image-20201226184631883.png
+   :alt: img
+
+   img
+
+--------------
+
+|image1|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20200607174235.png
+

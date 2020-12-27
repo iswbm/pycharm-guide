@@ -1,0 +1,24 @@
+8.13 【插件神器 06】代码滚动预览：CodeGlance
+============================================
+
+|image0|
+
+如果你曾使用过 Sublime
+Text，切换到其他代码编辑器，或多或少会有些不习惯，因为很少有编辑器会像
+Sublime 那样自带一个预览功能的滚动条。
+
+在 PyCharm 中，就没有解决不了的问题，如果有，那么就装个插件。
+
+要想在 PyCharm 中使用这个预览滚动条，只要装上 ``CodeGlance``
+这个插件。使用效果如下
+
+|image1|
+
+--------------
+
+|image2|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/image-20201226190221392.png
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
+
