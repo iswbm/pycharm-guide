@@ -1,0 +1,44 @@
+1.6 【永久破解 01】Win永久激活PyCharm
+=====================================
+
+|image0|
+
+本节会教你如何在 Windows 电脑上安装绿色版 PyCharm （ 2020.2
+版本），在些之前，你得先下载它。
+
+你可以扫描下面的二维码，回复：\ **pycharm** ，获取下载链接。
+
+|image1|
+
+下载后，你会得到一个名为 ``Pycharm_2020.2_Portable.exe``
+的可执行文件。双击它，会弹出如下的界面，让你选择文件的解压路径
+
+|image2|
+
+解压完成后，请先清空这个目录（如果没有这个路径，跳过即可），避免出现无法激活的情况：
+C::raw-latex:`\Users`:raw-latex:`\你的用户名`:raw-latex:`\AppData`:raw-latex:`\Roaming`:raw-latex:`\JetBrains`.PyCharm
+2020.2 。
+
+然后进入 ``D:\Program Files\JetBrains\Pycharm_2020.2_Portable\bin``
+目录，点击 pycharm64.exe
+打开软件，为了后续方便，你可以右键发送快捷方式到桌面。
+
+|image3|
+
+打开后，无需任何样式配置，直接就进入了软件，真的太好用了，点击 ``Help``
+-> ``About`` 查看一下激活信息，激活到 2089
+了，从此以后不用再担心过期了。
+
+|image4|
+
+--------------
+
+|image5|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20200822232337.png
+.. |image2| image:: http://image.iswbm.com/20200822201001.png
+.. |image3| image:: http://image.iswbm.com/20200822202044.png
+.. |image4| image:: http://image.iswbm.com/20200822201928.png
+.. |image5| image:: http://image.iswbm.com/20200607174235.png
+

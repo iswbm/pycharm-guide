@@ -23,15 +23,13 @@ Jetbrains
 
 按表单要求填写即可。
 
-.. figure:: /Users/MING/Library/Application%20Support/typora-user-images/image-20200901215241077.png
-   :alt: image-20200901215241077
-
-   image-20200901215241077
+|image1|
 
 等待个一天左右，你的邮箱估计就能收到激活码了。
 
-|image1|
+|image2|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
+.. |image1| image:: http://image.iswbm.com/image-20200901215241077.png
+.. |image2| image:: http://image.iswbm.com/20200607174235.png
 
