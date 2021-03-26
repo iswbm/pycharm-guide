@@ -3,7 +3,7 @@
 
 |image0|
 
-按住快捷键 Ctrl + ⌥ + H
+按住快捷键 Ctrl + Alt + H
 
 |image1|
 

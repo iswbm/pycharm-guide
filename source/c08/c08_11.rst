@@ -21,8 +21,8 @@
 上的，Windows 上的有所不同)
 
 -  Ctrl+Enter：运行该 cell
--  Option + shift + Enter：调试该 cell
--  Shift + Enter：插入一个新的 cell
+-  Option + shift + ↩：调试该 cell
+-  Shift + ↩：插入一个新的 cell
 
 |image3|
 
