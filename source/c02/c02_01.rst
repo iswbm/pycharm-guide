@@ -70,19 +70,24 @@ Console <http://pycharm.iswbm.com/zh_CN/latest/c08/c08_08.html>`__
 3. 运行相关的快捷键
 -------------------
 
--  Shift + F10：运行当前文件
--  Alt + Shift + F10：弹出菜单，让你选择运行哪一个文件
+-  Shift + F10：运行当前运行配置中的文件，等同于 Ctrl + Shift + F10
+-  Shift + F9：调试当前运行配置中的文件
+-  Alt + Shift +
+   F10：弹出菜单，让你选择运行哪一个文件（你得提前设置好运行配置）
+-  Alt + Shift +
+   F9：弹出菜单，让你选择调试哪一个文件（你得提前设置好运行配置）
+-  Ctrl + Shift + F10：运行 main 函数
 
 --------------
 
 |image7|
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200823131816.png
-.. |image2| image:: http://image.iswbm.com/20200823132648.png
-.. |image3| image:: http://image.iswbm.com/20200823133037.png
-.. |image4| image:: http://image.iswbm.com/20200823133749.png
-.. |image5| image:: http://image.iswbm.com/image-20200823133919166.png
-.. |image6| image:: http://image.iswbm.com/20200823144956.png
+.. |image1| image:: http://image.iswbm.com/20210325205317.png
+.. |image2| image:: http://image.iswbm.com/20210325212827.png
+.. |image3| image:: http://image.iswbm.com/20210325213050.png
+.. |image4| image:: http://image.iswbm.com/20210326084724.png
+.. |image5| image:: http://image.iswbm.com/20210326084800.png
+.. |image6| image:: http://image.iswbm.com/20210326084930.png
 .. |image7| image:: http://image.iswbm.com/20200607174235.png
 

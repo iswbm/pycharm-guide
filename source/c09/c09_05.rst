@@ -16,7 +16,6 @@
 2. F4：Jump to Source
 3. Ctrl + Alt + B ：Go to Implementation(s)
 4. Ctrl + 鼠标左键
-5. ^ + Shift + B：跳转到类型声明处
 
 第二个思路
 ----------

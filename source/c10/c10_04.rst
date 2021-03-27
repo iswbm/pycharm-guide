@@ -1,0 +1,41 @@
+10.4 【数据库操作 04】数据的导出
+================================
+
+PyCharm
+不仅提供了数据导出的功能，而且做得近乎极致，它支持各种格式的导出：csv,
+xlsx, json, html , xml , sql 等等
+
+|image0|
+
+下面一一为大家展示
+
+导出为 csv 或者 xlsx 格式，方便用于二次加工
+
+|image1|
+
+导出为 SQL 语句，方便用于还原数据
+
+|image2|
+
+导出 JSON 或者 xml，方便用于发送网络请求等其他用途
+
+|image3|
+
+导出为 Markdown，方便用于 Markdown 的排版展示
+
+|image4|
+
+导出为 HTML，方便使用浏览器展示数据
+
+|image5|
+
+|image6|
+
+.. |image0| image:: http://image.iswbm.com/20210327143544.png
+.. |image1| image:: http://image.iswbm.com/20210327143053.png
+.. |image2| image:: http://image.iswbm.com/20210327143120.png
+.. |image3| image:: http://image.iswbm.com/20210327143142.png
+.. |image4| image:: http://image.iswbm.com/20210327143201.png
+.. |image5| image:: http://image.iswbm.com/20210327143259.png
+.. |image6| image:: http://image.iswbm.com/20200607174235.png
+

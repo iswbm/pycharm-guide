@@ -26,7 +26,7 @@
 -  方法/函数名
 -  类名
 
-方法名和类名都是符号，可以使用 Ctrl + F12 ，调出结构树进行搜索。
+方法名和类名都是符号，可以使用 快捷键 Ctrl + F12 ，调出结构树进行搜索。
 
 |image2|
 
@@ -40,7 +40,8 @@
 3. 方法名
 4. Action 名
 
-普通人都是使用 Double + Shift ，来搜索所有的东西(Search everywhere)，包括
+普通人都是使用 Double + Shift ，来搜索所有的东西(Search
+everywhere)，包括
 
 |image3|
 
@@ -48,27 +49,26 @@
 
 其实对于上面的几类，PyCharm 有提供专门的入口，下面开始介绍：
 
--  精准定位到文件：Windows（Ctrl+Shift+N），Mac（Command+ shift +N）
+-  精准定位到文件：快捷键 Ctrl+Shift+N
 
    |image4|
 
--  精准定位到类：Windows（Ctrl+N），Mac（Command+N）
+-  精准定位到类：快捷键 Ctrl+N
 
    |image5|
 
--  精准定位到符号：类的所有成员（函数、变量等）都可以称之为符号，Windows（Ctrl+Alt+Shift+N），Mac（Option+Shift+Command+N）
+-  精准定位到符号：类的所有成员（函数、变量等）都可以称之为符号，快捷键
+   Ctrl+Alt+Shift+N
 
    |image6|
 
--  精准搜索 Action ：Shift + Ctrl + A，比如下面我搜索书签的所有
+-  精准搜索 Action ：快捷键 Shift + Ctrl + A，比如下面我搜索书签的所有
    Action，可以看到把相应的快捷键都给出来了。
 
    |image7|
 
--  精准定位到文件结构：文件结构包括类、函数、变量，这说明上面定位到类和定位到符号的方法，你都可以用这个来代替。
-
-   Windows：Ctrl+F12，Mac：Command+F12，如果和我一样是Mac是带touchbar的，键盘上是没有F12的，那你应该先按住
-   Command + fn，这时 touchbar 上会出现 F12，再按F12即可。
+-  精准定位到文件结构：文件结构包括类、函数、变量，这说明上面定位到类和定位到符号的方法，你都可以用这个来代替。快捷键
+   Ctrl+F12
 
 |image8|
 
@@ -82,7 +82,7 @@
 
    |image10|
 
--  精准定位到某行：Windows（Ctrl+G），Mac（Command+G），如下图定位到第510行第9个字符处。
+-  精准定位到某行：快捷键 Ctrl+G，如下图定位到第510行第9个字符处。
 
 |image11|
 

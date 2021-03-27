@@ -9,7 +9,7 @@
 
 |image1|
 
-快捷键：⌃ + Shift + J， 智能的将代码拼接成一行
+快捷键：Ctrl + Shift + J， 智能的将代码拼接成一行
 
 |image2|
 

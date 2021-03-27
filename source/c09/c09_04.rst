@@ -18,14 +18,14 @@
 同样回到 PyCharm 中来，你会发现它也支持块编辑。
 
 如果你使用的是旧版本的 PyCharm ，当你按住
-alt（windows）或者option（mac），然后使用鼠标进行选择，你会发现这样一件神奇的事情。
+alt，然后使用鼠标进行选择，你会发现这样一件神奇的事情。
 
 |image3|
 
 如若上面的快捷键不生效，说明你的 PyCharm
 是旧版本，在较版本中，有两种方法开启列选择模式
 
-1、使用快捷键 Command + shift + 8
+1、使用快捷键 Alt + Shift + Insert
 
 2、点击右键，选择 『Column Selection Mode』
 

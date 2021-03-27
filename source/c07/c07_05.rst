@@ -7,8 +7,8 @@
 
 假如有种方法，可以项目查看最近的修改记录的话（没有git做版本控制的情况下），那就太好了。
 
-太巧的是，今天我打开 PyCharm ，就给我推了这条 tip，（在Mac上）使用 Alt + Shift
-+C 可以快速查看最近修改的内容（windows 上是 alt+shift+c）
+太巧的是，今天我打开 PyCharm ，就给我推了这条 tip，使用 Alt + Shift +C
+就可以快速查看最近修改的内容
 
 |image1|
 

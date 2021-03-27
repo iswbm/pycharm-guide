@@ -9,7 +9,7 @@
 
    |image1|
 
-2. 在全局项目下替换，快捷键是：^ + Shift + R
+2. 在全局项目下替换，快捷键是：Ctrl + Shift + R
 
    |image2|
 
