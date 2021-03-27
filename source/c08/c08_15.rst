@@ -1,0 +1,66 @@
+8.15 【绝佳工具 08】使用 PyCharm 进行SSH 远程登陆
+=================================================
+
+|image0|
+
+开发者通常都会有自己专门用来 ssh 远程登陆的软件，比如 Xshell 等
+
+对于经常需要 ssh
+服务器提供支持的朋友来说，选择专业化的软件无疑是最好的选择，但是对于那些使用频率不高的小伙伴来说，其实只用
+PyCharm 就足够了。
+
+本篇文章明哥给你介绍下，如何使用 PyCharm 进行 SSH 远程登陆。
+
+1. SSH 远程服务器
+-----------------
+
+点击 ``Tools`` -> ``Start SSH Session``\ ，弹出如下选项，选择
+``Edit Credentials...``
+
+|image1|
+
+输入主机的信息，点击 OK
+
+|image2|
+
+就连接成功啦
+
+|image3|
+
+通过上面开启连接是无法保存的，下次你再运行还是要手动输入ip port
+password。
+
+如果要保存 ssh 的连接信息，可以在如下位置添加
+
+|image4|
+
+在这里添加后，你在 ``Tools`` -> ``Start SSH Session`` 就可以看到啦
+
+|image5|
+
+2. SSH Vagrant 虚拟机
+---------------------
+
+如果你当前的项目已经配置好了 Varant 环境，登陆会更加方便。
+
+还不会配置的，请看本书 第二章：【开发环境 01】使用Vagrant
+搭建一劳永逸开发环境
+
+|image6|
+
+直接进入本项目的 Vagrant 虚拟机
+
+|image7|
+
+|image8|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20210327105612.png
+.. |image2| image:: http://image.iswbm.com/20210327105844.png
+.. |image3| image:: http://image.iswbm.com/20210327105931.png
+.. |image4| image:: http://image.iswbm.com/image-20210327111036942.png
+.. |image5| image:: http://image.iswbm.com/20210327111151.png
+.. |image6| image:: http://image.iswbm.com/20210327111349.png
+.. |image7| image:: http://image.iswbm.com/20210327111417.png
+.. |image8| image:: http://image.iswbm.com/20200607174235.png
+

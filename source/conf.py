@@ -46,7 +46,7 @@ source_suffix = ['.rst']
 master_doc = 'index'
 
 # General information about the project.
-project = 'PyCharm 中文指南'
+project = 'PyCharm 中文指南(Mac版)'
 copyright = '王炳明'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -54,9 +54,9 @@ copyright = '王炳明'
 # built documents.
 #
 # The short X.Y version.
-version = '1.0'
+version = '2.0'
 # The full version, including alpha/beta/rc tags.
-release = '1.0.0'
+release = '2.0.0'
 
 exclude_patterns = []
 
@@ -121,10 +121,10 @@ html_js_files = [
 #    file.write(content)
 
 author = '王炳明'
-copyright = '2020, Python编程时光'
+copyright = '2020-2021, Python编程时光'
 exclude_patterns = ['_build']
 master_doc = 'index'
-project = 'PyCharm 中文指南'
+project = 'PyCharm 中文指南(Mac版)'
 release = '2.0'
 version = '2.0'
 

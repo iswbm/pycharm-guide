@@ -5,7 +5,7 @@
     <img src='https://img.shields.io/badge/framwork-Sphinx-green.svg'>
   	<a href='https://www.zhihu.com/people/wongbingming'><img src='https://img.shields.io/badge/dynamic/json?color=0084ff&logo=zhihu&label=%E7%8E%8B%E7%82%B3%E6%98%8E&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dzhihu%26queryKey%3Dwongbingming'></a>
     <a href='https://juejin.im/user/5b08d982f265da0db3502c55'><img src='https://img.shields.io/badge/掘金-2481-blue'></a>
-    <a href='http://image.iswbm.com/20200607114246.png'><img src='http://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-30k+-brightgreen'></a>
+    <a href='http://image.iswbm.com/20200607114246.png'><img src='http://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-50k+-brightgreen'></a>
 </p>
 
 
@@ -34,12 +34,14 @@
    * [1.3 【安装使用 02】使用专业版的五种方法](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_03.html)
    * [1.4 【免费使用 01】学生和老师可申请免费专业版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_04.html)
    * [1.5 【免费使用 02】利用开源项目申请免费专业版](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_05.html)
+   * [1.6 【永久破解 01】Mac上永久激活 PyCharm](http://pycharm.iswbm.com/zh_CN/latest/c01/c01_06.html)
 - **第二章：调试与运行**
    * [2.1 【运行技巧 01】运行 Python 的四种方式](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_01.html)
    * [2.2 【运行技巧 02】通过指定参数，执行程序](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_02.html)
    * [2.3 【调试技巧 01】超详细图文教你调试代码](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_03.html)
    * [2.4 【调试技巧 02】程序结束了，照样可以调试](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_04.html)
    * [2.5 【调试技巧 03】7 步实现远程代码调试](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_05.html)
+   * [2.6 【开发环境 01】使用Vagrant 搭建一劳永逸开发环境](http://pycharm.iswbm.com/zh_CN/latest/c02/c02_06.html)
 - **第三章：界面与排版**
    * [3.1 【界面改造 01】打造颜值超高的界面](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_01.html)
    * [3.2 【界面改造 02】关闭碍眼的波浪线](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_02.html)
@@ -48,6 +50,7 @@
    * [3.5 【界面改造 05】关闭烦人的灯泡提示](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_05.html)
    * [3.6 【界面改造 06】小屏幕必看：开启大屏幕编码模式](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_06.html)
    * [3.7 【界面改造 07】大屏幕必看：分屏查看代码](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_07.html)
+   * [3.8 【界面改造 08】代码太长？试试自动换行](http://pycharm.iswbm.com/zh_CN/latest/c03/c03_08.html)
 - **第四章：代码的编辑**
    * [4.1 【高效编辑 01】重写父类方法的正确姿势](http://pycharm.iswbm.com/zh_CN/latest/c04/c04_01.html)
    * [4.2 【高效编辑 02】缩进和反缩进](http://pycharm.iswbm.com/zh_CN/latest/c04/c04_02.html)
@@ -70,6 +73,8 @@
    * [5.5 【提高效率 05】快速输入自定义代码片段](http://pycharm.iswbm.com/zh_CN/latest/c05/c05_05.html)
    * [5.6 【提高效率 06】代码模板，效率编码](http://pycharm.iswbm.com/zh_CN/latest/c05/c05_06.html)
    * [5.7 【提高效率 07】代码封装，一步到位](http://pycharm.iswbm.com/zh_CN/latest/c05/c05_07.html)
+   * [5.8 【提高效率 08】爬虫必备，一键加引号](http://pycharm.iswbm.com/zh_CN/latest/c05/c05_08.html)
+   * [5.9 【提高效率 09】选择代码块的最快方法](http://pycharm.iswbm.com/zh_CN/latest/c05/c05_09.html)
 - **第六章：搜索与导航**
    * [6.1 【搜索技巧 01】精准搜索函数在哪些地方被调用](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_01.html)
    * [6.2 【搜索技巧 02】在项目中使用书签，快速定位](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_02.html)
@@ -89,6 +94,7 @@
    * [6.16 【导航技巧 09】快速打开文件可用的工具栏](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_16.html)
    * [6.17 【导航技巧 10】学会跨级别跳转代码块](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_17.html)
    * [6.18 【导航技巧 11】善用 TODO 记录待办事项](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_18.html)
+   * [6.19 【搜索技巧08】查找最近的搜索记录](http://pycharm.iswbm.com/zh_CN/latest/c06/c06_19.html)
 - **第七章：版本与管理**
    * [7.1 【版本管理 01】使用 Git 进行版本管理](http://pycharm.iswbm.com/zh_CN/latest/c07/c07_01.html)
    * [7.2 【版本管理 02】三种查看文件的修改](http://pycharm.iswbm.com/zh_CN/latest/c07/c07_02.html)
@@ -107,6 +113,10 @@
    * [8.9 【绝佳工具 05】一键进行代码性能分析](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_09.html)
    * [8.10 【绝佳工具 06】开启静态代码分析检查](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_10.html)
    * [8.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_11.html)
+   * [8.12 【插件神器 05】快捷键管理大师：Key Promoter X](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_12.html)
+   * [8.13 【插件神器 06】代码滚动预览：CodeGlance](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_13.html)
+   * [8.14 【插件神器 07】JSON美化插件：Json Parser](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_14.html)
+   * [8.15 【绝佳工具 08】使用 PyCharm 进行SSH 远程登陆](http://pycharm.iswbm.com/zh_CN/latest/c08/c08_15.html)
 - **第九章：常用的技巧**
    * [9.1 【必学技巧 01】轻松实现 JSON格式化](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_01.html)
    * [9.2 【必学技巧 02】误删项目？一秒找回](http://pycharm.iswbm.com/zh_CN/latest/c09/c09_02.html)
