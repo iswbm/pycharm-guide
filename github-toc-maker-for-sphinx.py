@@ -1,26 +1,46 @@
 import os
 import re
+import git
+import linecache
 from glob import glob
 
 pwd = os.getcwd()
-all_chapters_path = glob(pwd + "/source/c0*")
-
+source_dir = os.path.join(pwd, "source")
 
 def get_chapter_name(file):
-    with open(file) as f:
-        f.readline()
-        chapter_name = f.readline().strip()
-
-    return chapter_name
+    return linecache.getline(file, 2).strip()
 
 def get_title(file):
-    with open(file) as f:
-        first_line = f.readline()
+    first_line = linecache.getline(file, 1)
 
     if first_line.startswith("#"):
-        return first_line[1:].strip()
+        return first_line.replace("# ", "").strip()
 
-def generate_mapping():
+def get_current_brance():
+    repo = git.Repo(pwd)
+    all_branchs = repo.git.branch()
+
+    current_branch = ""
+    for branch in all_branchs.split('\n'):
+        if "*" in branch:
+            current_branch = branch.replace("* ", "")
+            if current_branch == "master":
+                current_branch = "latest"
+            break
+
+    return current_branch
+
+def get_all_chapter():
+    all_chapters_path = []
+    os.chdir(source_dir)
+
+    for dir_name in glob("c*"):
+        if dir_name == "chapters" or dir_name == "conf.py":
+            continue
+        all_chapters_path.append(os.path.join(dir_name))
+    return all_chapters_path
+
+def generate_mapping(all_chapters_path):
     mapping = dict.fromkeys([os.path.basename(chapter_path) for chapter_path in all_chapters_path])
     for key in mapping.keys():
         chapter_file = os.path.join(pwd, "source", "chapters", key.replace("c", "p") + ".rst")
@@ -28,21 +48,18 @@ def generate_mapping():
 
     return mapping
 
-def get_toc_info():
+def get_toc_info(all_chapters_path, current_branch):
     toc = {}
-    for dir_path in all_chapters_path:
-        dir_name = os.path.basename(dir_path)
 
+    for dir_name in all_chapters_path:
         chapter_toc = {}
-        files = glob(dir_path + "/*.md")
+        os.chdir(os.path.join(source_dir, dir_name))
 
-        for file in files:
-            file_name = os.path.basename(file)
+        for file_name in sorted(glob(dir_name + "*.md")):
             section = int(re.findall(r"c\d{2}_(\d{2}).md", file_name)[0])
 
-            #md_path = os.path.join("./source/", dir_name, file_name)
-            md_path = os.path.join("http://pycharm.iswbm.com/zh_CN/latest/", dir_name, file_name.replace("md", "html"))
-            title = get_title(file)
+            md_path = os.path.join("http://pycharm.iswbm.com/zh_CN/", current_branch, dir_name, file_name.replace("md", "html"))
+            title = get_title(file_name)
             if not title:
                 continue
 
@@ -58,13 +75,15 @@ def print_md_toc(toc_info, mapping):
         chapter_name = mapping[chapter[0]]
         print(f"- **{chapter_name}**")
         for post in sorted(posts.items(), key=lambda item:item[0]):
-            # print title only 
+            # print title only
             # print(f"{post[1][0]}")
             print("  ", f"* [{post[1][0]}]({post[1][1]})")
 
 def main():
-    mapping = generate_mapping()
-    toc_info = get_toc_info()
+    all_chapter = get_all_chapter()
+    mapping = generate_mapping(all_chapter)
+    current_branch = get_current_brance()
+    toc_info = get_toc_info(all_chapter, current_branch)
     print_md_toc(toc_info, mapping)
 
 if __name__ == '__main__':
