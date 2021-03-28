@@ -7,6 +7,7 @@
     <a href='https://juejin.im/user/5b08d982f265da0db3502c55'><img src='https://img.shields.io/badge/掘金-2481-blue'></a>
     <a href='http://image.iswbm.com/20200607114246.png'><img src='http://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-50k+-brightgreen'></a>
 </p>
+
 ## 文档说明
 
 本书是由我本人在业余时间整理的一本面向所有 Python 开发者的 PyCharm 详细使用手册。
