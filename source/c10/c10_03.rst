@@ -1,31 +1,34 @@
 10.3 【数据库操作 03】查询结果格式化
 ====================================
 
+|image0|
+
 表格形式
 --------
 
 查询结果默认显示以表格的形式打印，你可以很方便的复制到 Excel 上
 
-|image0|
+|image1|
 
 JSON格式
 --------
 
 如果你需要将结果展示成 JSON 的格式，点击切换到 ``Tree``
 
-|image1|
+|image2|
 
 CSV 格式
 --------
 
 如果你需要将结果展示成 CSV 的格式，点击切换到 ``Text``
 
-|image2|
-
 |image3|
 
-.. |image0| image:: http://image.iswbm.com/20210327140812.png
-.. |image1| image:: http://image.iswbm.com/20210327140647.png
-.. |image2| image:: http://image.iswbm.com/20210327140942.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
+|image4|
+
+.. |image0| image:: http://image.iswbm.com/20200804124133.png
+.. |image1| image:: http://image.iswbm.com/20210327140812.png
+.. |image2| image:: http://image.iswbm.com/20210327140647.png
+.. |image3| image:: http://image.iswbm.com/20210327140942.png
+.. |image4| image:: http://image.iswbm.com/20200607174235.png
 
