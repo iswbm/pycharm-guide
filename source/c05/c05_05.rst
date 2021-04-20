@@ -29,6 +29,6 @@ Template
 
 .. |image0| image:: http://image.iswbm.com/20200804124133.png
 .. |image1| image:: http://image.iswbm.com/20200723161209.png
-.. |image2| image:: http://image.iswbm.com/20200723161307.png
+.. |image2| image:: http://image.iswbm.com/deco.gif
 .. |image3| image:: http://image.iswbm.com/20200607174235.png
 
