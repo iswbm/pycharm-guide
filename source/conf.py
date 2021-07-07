@@ -28,7 +28,7 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['chinese_search','sphinx.ext.mathjax']
+extensions = ['chinese_search','sphinx.ext.mathjax', 'sphinx_sitemap']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -130,3 +130,5 @@ version = '2.0'
 
 # Options for extensions.
 disqus_shortname = 'iswbm'  # Add this line to conf.py.
+html_baseurl = 'http://pycharm.iswbm.com'
+html_extra_path = ["robots.txt"]
