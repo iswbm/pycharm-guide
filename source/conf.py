@@ -28,7 +28,7 @@ import os
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ['chinese_search','sphinx.ext.mathjax', 'sphinx_multiversion']
+extensions = ['chinese_search','sphinx.ext.mathjax', 'sphinx_sitemap','sphinx_multiversion']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -129,7 +129,7 @@ release = '2.0'
 version = '2.0'
 
 # Options for extensions.
-
+html_baseurl = 'http://pycharm.iswbm.com'
 html_sidebars = {
     '**': [
         'versioning.html',
@@ -137,3 +137,4 @@ html_sidebars = {
 }
 
 smv_latest_version = 'win'
+sitemap_url_scheme = "{link}"
