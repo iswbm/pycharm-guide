@@ -112,14 +112,6 @@ html_js_files = [
     'js/baidutongji.js',
 ]
 
-# General configuration.
-#with open("/home/docs/checkouts/readthedocs.org/user_builds/magic-python-guide/envs/latest/lib/python3.7/site-packages/sphinx/registry.py", "r") as file:
-#    content = file.read()
-#    content=content.replace("sphinx.application", "sphinx.errors")
-#
-#with open("/home/docs/checkouts/readthedocs.org/user_builds/magic-python-guide/envs/latest/lib/python3.7/site-packages/sphinx/registry.py", "w") as file:
-#    file.write(content)
-
 author = '王炳明'
 copyright = '2020-2021, Python编程时光'
 exclude_patterns = ['_build']
@@ -129,7 +121,7 @@ release = '2.0'
 version = '2.0'
 
 # Options for extensions.
-html_baseurl = 'http://pycharm.iswbm.com'
+html_baseurl = 'https://pycharm.iswbm.com'
 html_sidebars = {
     '**': [
         'versioning.html',
