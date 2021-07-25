@@ -16,20 +16,6 @@ def get_title(file):
     if first_line.startswith("#"):
         return first_line.replace("# ", "").strip()
 
-def get_current_brance():
-    repo = git.Repo(pwd)
-    all_branchs = repo.git.branch()
-
-    current_branch = ""
-    for branch in all_branchs.split('\n'):
-        if "*" in branch:
-            current_branch = branch.replace("* ", "")
-            if current_branch == "master":
-                current_branch = "latest"
-            break
-
-    return current_branch
-
 def get_all_chapter():
     all_chapters_path = []
     os.chdir(source_dir)
@@ -48,7 +34,7 @@ def generate_mapping(all_chapters_path):
 
     return mapping
 
-def get_toc_info(all_chapters_path, current_branch):
+def get_toc_info(all_chapters_path):
     toc = {}
 
     for dir_name in all_chapters_path:
@@ -58,7 +44,7 @@ def get_toc_info(all_chapters_path, current_branch):
         for file_name in sorted(glob(dir_name + "*.md")):
             section = int(re.findall(r"c\d{2}_(\d{2}).md", file_name)[0])
 
-            md_path = os.path.join("http://pycharm.iswbm.com/zh_CN/", current_branch, dir_name, file_name.replace("md", "html"))
+            md_path = os.path.join("http://pycharm.iswbm.com/", dir_name, file_name.replace("md", "html"))
             title = get_title(file_name)
             if not title:
                 continue
@@ -82,8 +68,7 @@ def print_md_toc(toc_info, mapping):
 def main():
     all_chapter = get_all_chapter()
     mapping = generate_mapping(all_chapter)
-    current_branch = get_current_brance()
-    toc_info = get_toc_info(all_chapter, current_branch)
+    toc_info = get_toc_info(all_chapter)
     print_md_toc(toc_info, mapping)
 
 if __name__ == '__main__':
