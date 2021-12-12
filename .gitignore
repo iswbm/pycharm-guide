@@ -4,3 +4,10 @@
 Makefile
 Pipfile
 test*
+c01_06.md
+all_v1.0.md
+c01_07.md
+all_v2.0_mac.md
+all_v2.0_win.md
+pdf_maker.py
+header_and_footer.md
