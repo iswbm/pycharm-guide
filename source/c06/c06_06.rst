@@ -1,28 +1,18 @@
 6.6 【搜索技巧 06】显示当前类的继承树：Type Hierarchy
 =====================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 第一种方法
 ----------
 
 使用快捷键 ⌃ + H
 
-|image1|
+.. image:: http://image.iswbm.com/20200829123319.png
 
 第二种方法
 ----------
 
 使用快捷键 ⌘ + O
 
-|image2|
-
---------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200829123319.png
-.. |image2| image:: http://image.iswbm.com/image-20200829152814586.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/image-20200829152814586.png

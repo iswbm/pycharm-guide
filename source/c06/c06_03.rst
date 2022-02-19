@@ -1,7 +1,7 @@
 6.3 【搜索技巧 03】无死角搜索：搜索的八种姿势
 =============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在源代码中搜索，是一个非常高频的操作。
 
@@ -18,7 +18,7 @@
 -  ⌘ + F
 -  ⌥ + F3
 
-|image1|
+.. image:: http://image.iswbm.com/20200829164915.png
 
 除此之外呢，根据搜索对象的不同，还可以划分为：
 
@@ -28,7 +28,7 @@
 
 方法名和类名都是符号，可以使用 ⌘ + F12 ，调出结构树进行搜索。
 
-|image2|
+.. image:: http://image.iswbm.com/20200829164840.png
 
 全局项目中搜索
 --------------
@@ -42,7 +42,7 @@
 
 普通人都是使用 Double + ⇧ ，来搜索所有的东西(Search everywhere)，包括
 
-|image3|
+.. image:: http://image.iswbm.com/20200829100514.png
 
 搜索的东西多了，就意味着搜索无法精准。
 
@@ -50,57 +50,38 @@
 
 -  精准定位到文件：快捷键 Command+ shift +N
 
-   |image4|
+   .. image:: http://image.iswbm.com/image-20200829100632657.png
 
 -  精准定位到类：快捷键 Command+N
 
-   |image5|
+   .. image:: http://image.iswbm.com/20200829100728.png
 
 -  精准定位到符号：类的所有成员（函数、变量等）都可以称之为符号，快捷键
    ⌥ + ⇧ + ⌘ + N
 
-   |image6|
+   .. image:: http://image.iswbm.com/20200829100923.png
 
 -  精准搜索 Action ：⇧ + ⌘ + A，比如下面我搜索书签的所有
    Action，可以看到把相应的快捷键都给出来了。
 
-   |image7|
+   .. image:: http://image.iswbm.com/20200829224323.png
 
 -  精准定位到文件结构：文件结构包括类、函数、变量，这说明上面定位到类和定位到符号的方法，你都可以用这个来代替。快捷键
    Command+F12，如果和我一样是Mac是带touchbar的，键盘上是没有F12的，那你应该先按住
    ⌘ + fn，这时 touchbar 上会出现 F12，再按F12即可。
 
-|image8|
+.. image:: http://image.iswbm.com/20200829100818.png
 
 -  指定文件夹下搜索文件：直接在项目树中输入你要搜索的文件名，若要清空以往输入，可以按
    esc 清空。
 
-   |image9|
+   .. image:: http://image.iswbm.com/20200829100237.png
 
 -  指定文件中搜索项目结构：直接在项目结构中输入你要搜索的结构名（可以是类、函数、变量等），若要清空以往输入，可以按
    esc 清空。
 
-   |image10|
+   .. image:: http://image.iswbm.com/20200829100429.png
 
 -  精准定位到某行：快捷键 Command+G，如下图定位到第510行第9个字符处。
 
-|image11|
-
---------------
-
-|image12|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200829164915.png
-.. |image2| image:: http://image.iswbm.com/20200829164840.png
-.. |image3| image:: http://image.iswbm.com/20200829100514.png
-.. |image4| image:: http://image.iswbm.com/image-20200829100632657.png
-.. |image5| image:: http://image.iswbm.com/20200829100728.png
-.. |image6| image:: http://image.iswbm.com/20200829100923.png
-.. |image7| image:: http://image.iswbm.com/20200829224323.png
-.. |image8| image:: http://image.iswbm.com/20200829100818.png
-.. |image9| image:: http://image.iswbm.com/20200829100237.png
-.. |image10| image:: http://image.iswbm.com/20200829100429.png
-.. |image11| image:: http://image.iswbm.com/20190616234038.png
-.. |image12| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190616234038.png

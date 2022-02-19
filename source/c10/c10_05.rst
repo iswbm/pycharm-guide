@@ -1,17 +1,10 @@
 10.5 【数据库操作 05】数据的修改
 ================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 你不仅 可以在 PyCharm
 上进行数据的查询，对查询出来的数据可以进行可视化的修改，不用再使用
 UPDATE 的 sql 语句去更新。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20210401082022.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20210401082022.png

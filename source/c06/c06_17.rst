@@ -1,7 +1,7 @@
 6.17 【导航技巧 10】学会跨级别跳转代码块
 ========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 根据代码块的在模块中的位置，可以将代码块分为：
 
@@ -19,13 +19,4 @@
 -  ⌘ + [：跳到上一级代码块开始的地方
 -  ⌘ + ]：跳到上一级代码块结束的地方
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2016.22.46.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2016.22.46.gif

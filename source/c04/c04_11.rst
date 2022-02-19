@@ -1,7 +1,7 @@
 4.11 【高效编辑 11】输出结果美化：Show as JSON
 ==============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当你使用 PyCharm 运行程序后，如果打印了 JSON
 字符串，对于人的肉眼来说是很不友好的。
@@ -16,7 +16,7 @@
 这时候可以在输出窗口点击右键，选择 ``Show as JSON``\ ， PyCharm
 就会新开一个临时文件显示被格式化过的 JSON 字符串
 
-|image1|
+.. image:: http://image.iswbm.com/20200826084710.png
 
 这个功能在较低版本的 PyCharm 中是没有的。
 
@@ -31,19 +31,10 @@
    member = {"name":"xiaoming", "gender": "male", "age": 18}
    print(member)
 
-|image2|
+.. image:: http://image.iswbm.com/20200826085228.png
 
 2、打印的 JSON 字符串里不能有 ``[]``\ ，不然解析会有问题
 
-|image3|
+.. image:: http://image.iswbm.com/20200826085448.png
 
 --------------
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200826084710.png
-.. |image2| image:: http://image.iswbm.com/20200826085228.png
-.. |image3| image:: http://image.iswbm.com/20200826085448.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-

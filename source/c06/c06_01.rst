@@ -1,7 +1,7 @@
 6.1 【搜索技巧 01】精准搜索函数在哪些地方被调用
 ===============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在项目中搜索用该方法的地方(Find Usage)
 --------------------------------------
@@ -13,11 +13,11 @@
 
 1. 某些函数只是包含了该函数名，也会被搜索出来
 
-   |image1|
+   .. image:: http://image.iswbm.com/image-20200829103541387.png
 
 2. 不相关的文件名，符号名也会被搜索出来。
 
-   |image2|
+   .. image:: http://image.iswbm.com/20200829103829.png
 
 这种多的干扰信息，人工过滤掉无用的信息会消耗太多的精力。
 
@@ -30,7 +30,7 @@
 1. 函数名完全匹配才会显示
 2. 只会搜索被调用的地方，定义的地方不会显示
 
-|image3|
+.. image:: http://image.iswbm.com/20200829101407.png
 
 在项目中搜索用该方法的地方(Show Usage)
 --------------------------------------
@@ -44,7 +44,7 @@
 
 除了用快捷键外，还有更简便的方法，那就是直接按下 ``鼠标中键``
 
-|image4|
+.. image:: http://image.iswbm.com/image-20200829104728451.png
 
 在当前文件中搜索用该方法的地方(Find Usage in File)
 --------------------------------------------------
@@ -56,17 +56,4 @@ F7，而取消高亮状态的快捷键是 ⌘ + ⇧ + F7
 
 演示如下：
 
-|image5|
-
---------------
-
-|image6|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200829103541387.png
-.. |image2| image:: http://image.iswbm.com/20200829103829.png
-.. |image3| image:: http://image.iswbm.com/20200829101407.png
-.. |image4| image:: http://image.iswbm.com/image-20200829104728451.png
-.. |image5| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2010.23.46.gif
-.. |image6| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2010.23.46.gif

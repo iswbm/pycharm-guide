@@ -1,7 +1,7 @@
 6.2 【搜索技巧 02】在项目中使用书签，快速定位
 =============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 我在看框架的源代码时，最常使用的是 ⌘ + B （也就是 ⌘ + 鼠标左键
 ）一层一层地往里深入，但是当源代码比较多，可能一整个事件过程涉及十几文件，函数调用错综复杂，对于一个庞大的项目来说，有用的可能就几个关键函数，每次要找到这几个函数，都要重头从源函数再一层一层的找下去，这样实在太麻烦了，我常常因此把自己给看晕了。
@@ -20,29 +20,19 @@
 ，你可以给这个位置加个序号，可以是数字也可以是字母，假如在下面这个位置
 加了 ``1`` 这个序号，下次你就可以使用 ⌘ + 1 直接跳转到这个位置。
 
-|image1|
+.. image:: http://image.iswbm.com/20190324111429.png
 
 当然你也可以不加，不加的话就是匿名书签了。你可以使用 ⇧ + F11
 展示所有的书签，再进行跳转。
 
 同时，你可以为书签加一段描述文字，表明这块代码是什么的
 
-|image2|
+.. image:: http://image.iswbm.com/image-20200829165817279.png
 
 我写入如下信息
 
-|image3|
+.. image:: http://image.iswbm.com/image-20200829165841514.png
 
 然后再使用快捷键：⇧ + F11，就可以列出所有的书签了
 
-|image4|
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190324111429.png
-.. |image2| image:: http://image.iswbm.com/image-20200829165817279.png
-.. |image3| image:: http://image.iswbm.com/image-20200829165841514.png
-.. |image4| image:: http://image.iswbm.com/image-20200829165950576.png
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/image-20200829165950576.png

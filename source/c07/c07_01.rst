@@ -1,26 +1,26 @@
 7.1 【版本管理 01】使用 Git 进行版本管理
 ========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 开启版本控制
 ------------
 
 点击 ``VCS`` -> ``Git`` -> ``Clone``
 
-|image1|
+.. image:: http://image.iswbm.com/20191211100048.png
 
 填写git仓库相关信息
 
-|image2|
+.. image:: http://image.iswbm.com/20191211100657.png
 
 点击 ``Test``\ ，会尝试连接 git 服务器，中间会让你输入登陆的帐号和密码。
 
-|image3|
+.. image:: http://image.iswbm.com/20191211101706.png
 
 点击\ ``OK`` 后，若一切正常会提示连接成功。
 
-|image4|
+.. image:: http://image.iswbm.com/20191211101845.png
 
 点击 ``OK`` 后，PyCharm 需要你选择如何打开这个 Git
 仓库目录，是在当前窗口中打开，还是新建一个窗口？
@@ -29,14 +29,14 @@
 仓库，为了方便，我选择在当前窗口中打开（注意勾选
 ``Add to currently opened projects``\ ）。
 
-|image5|
+.. image:: http://image.iswbm.com/20191211102501.png
 
 至此，Git 配置完成。
 
 此时你可以 ``VCS`` -> ``Git``
 查看，发现之前这些灰色不可用的按钮都可以使用了。
 
-|image6|
+.. image:: http://image.iswbm.com/20191211102826.png
 
 本篇重在讲解 PyCharm 的配置，关于Git
 的操作，不属于本篇重点，就不再展开讲了。
@@ -44,11 +44,11 @@
 若你想对已配置的Git仓库进行修改，可点击 ``File`` -> ``Setting`` ->
 ``Version Control`` 调出如下界面。
 
-|image7|
+.. image:: http://image.iswbm.com/20191211133836.png
 
 不得不说 PyCharm 的这 UI 做得可以，随便改了个东西提交一下
 
-|image8|
+.. image:: http://image.iswbm.com/20191211143510.png
 
 与 VSC 有关的快捷键
 -------------------
@@ -64,19 +64,3 @@
 ⌘ + ⇧ + K：Push 到远端
 
 ⌘ + ⌥ + Z：回退
-
---------------
-
-|image9|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20191211100048.png
-.. |image2| image:: http://image.iswbm.com/20191211100657.png
-.. |image3| image:: http://image.iswbm.com/20191211101706.png
-.. |image4| image:: http://image.iswbm.com/20191211101845.png
-.. |image5| image:: http://image.iswbm.com/20191211102501.png
-.. |image6| image:: http://image.iswbm.com/20191211102826.png
-.. |image7| image:: http://image.iswbm.com/20191211133836.png
-.. |image8| image:: http://image.iswbm.com/20191211143510.png
-.. |image9| image:: http://image.iswbm.com/20200607174235.png
-

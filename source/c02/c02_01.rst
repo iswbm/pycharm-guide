@@ -1,7 +1,7 @@
 2.1 【运行技巧 01】运行 Python 的四种方式
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 1. 设置 Python 解释器
 ---------------------
@@ -14,11 +14,11 @@ Python 解释器。
 
 打开设置，搜索 Interpreter （如下图），就可以添加你的 Python 解释器了。
 
-|image1|
+.. image:: http://image.iswbm.com/20200823131816.png
 
 设置完成后，在主界面就可以看到这里多了这么块内容。你以后想读一些内置模块的代码，可以直接从这里点进去。
 
-|image2|
+.. image:: http://image.iswbm.com/20200823132648.png
 
 2. 运行 Python 程序
 -------------------
@@ -31,7 +31,7 @@ Python 解释器。
 
 右键 - 点击 Run 就可以运行该程序
 
-|image3|
+.. image:: http://image.iswbm.com/20200823133037.png
 
 从右键可以看到 Run 是有快捷键的，你只要使用 ctrl+shift+F10
 就可以运行该程序.
@@ -40,11 +40,11 @@ Python 解释器。
 
 在你运行过一次该脚本后，PyCharm 就会自动为你记录一次运行记录
 
-|image4|
+.. image:: http://image.iswbm.com/20200823133749.png
 
 因此你以后直接点击这里，就可以直接该程序了。
 
-|image5|
+.. image:: http://image.iswbm.com/image-20200823133919166.png
 
 **第三种**
 
@@ -57,7 +57,7 @@ Python 解释器。
 
 就会出现如下的运行按钮，点击第一个就是 Run 。
 
-|image6|
+.. image:: http://image.iswbm.com/20200823144956.png
 
 **第四种**
 
@@ -72,17 +72,3 @@ Console <http://pycharm.iswbm.com/zh_CN/latest/c08/c08_08.html>`__
 
 -  ⇧ + F10：运行当前文件
 -  ⌥ + ⇧ + F10：弹出菜单，让你选择运行哪一个文件
-
---------------
-
-|image7|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200823131816.png
-.. |image2| image:: http://image.iswbm.com/20200823132648.png
-.. |image3| image:: http://image.iswbm.com/20200823133037.png
-.. |image4| image:: http://image.iswbm.com/20200823133749.png
-.. |image5| image:: http://image.iswbm.com/image-20200823133919166.png
-.. |image6| image:: http://image.iswbm.com/20200823144956.png
-.. |image7| image:: http://image.iswbm.com/20200607174235.png
-

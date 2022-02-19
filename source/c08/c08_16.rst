@@ -4,23 +4,14 @@
 在 Pycharm 的 Settings 中，点击 Plugins 插件市场搜索 **birdseye** 点击
 install 安装。
 
-|image0|
+.. image:: http://image.iswbm.com/20210725111155.png
 
 安装完成后重启Pycharm，就可以在 Pycharm 中使用 birdseye了：
 
-|image1|
+.. image:: http://image.iswbm.com/20210725111204.gif
 
-|image2|
+.. image:: http://image.iswbm.com/20210725111232.gif
 
-|image3|
+.. image:: http://image.iswbm.com/20210725111210.gif
 
 “一劳永逸” 的话，有是有的，而 “一劳永逸” 的事却极少
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20210725111155.png
-.. |image1| image:: http://image.iswbm.com/20210725111204.gif
-.. |image2| image:: http://image.iswbm.com/20210725111232.gif
-.. |image3| image:: http://image.iswbm.com/20210725111210.gif
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-

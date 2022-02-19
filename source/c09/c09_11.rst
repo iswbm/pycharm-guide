@@ -1,7 +1,7 @@
 9.11 【必学技巧 11】显示类继承关系图：Show Diagrams
 ===================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在阅读一些比较庞大的项目时，如果类的继承关系比较复杂，会给我们阅读源码带来不小的阻碍。
 
@@ -9,16 +9,8 @@
 
 在你想查看继承关系的 类 中，右键选择 ``Diagrams`` -> ``Show Diagram``
 
-|image1|
+.. image:: http://image.iswbm.com/image-20200826133115567.png
 
 就会新增一个窗口，使用 UML 为你展示该类的继承关系。
 
-|image2|
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200826133115567.png
-.. |image2| image:: http://image.iswbm.com/image-20200826133133564.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/image-20200826133133564.png

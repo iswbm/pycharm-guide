@@ -1,7 +1,7 @@
 5.7 【提高效率 07】代码封装，一步到位
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当一个主函数的代码行数越来越多时，代码的可读性会变得越来越差。通常的做法，是按照功能将代码进行封装成多个函数。
 
@@ -20,23 +20,14 @@
 
 假如，我现在有如下一段代码，红框标出的代码放在主函数中，有些不太合适，况且这段代码不能让人一眼就看出它是在做什么事情。如何将其进行封装，对我们理清整个主程序的逻辑会有帮助。
 
-|image1|
+.. image:: http://image.iswbm.com/20191222141905.png
 
 选中你要封装的代码，然后按住 ⌘ + ⌥ +
 M后，会跳出如下界面，根据自己的需要，修改函数名，选择参数和返回值
 
-|image2|
+.. image:: http://image.iswbm.com/20191222141955.png
 
 一切就绪点击 ``OK``\ ，PyCharm
 会自动在合适的位置为你定义一个函数名，并将你选中的代码放到里面，其中参数名和返回值也都是按照你的要求，效果如下：
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20191222141905.png
-.. |image2| image:: http://image.iswbm.com/20191222141955.png
-.. |image3| image:: http://image.iswbm.com/20191222142223.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20191222142223.png

@@ -1,7 +1,7 @@
 9.7 【必学技巧 07】tab和空格混用自动转换
 ========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在团队协作中，你难免会动到别人编辑的文件，有的人喜欢做tab做缩进，有的人喜欢用四个空格做缩进。
 
@@ -12,7 +12,7 @@ Pycharm
 
 在图示位置打勾即可开启自动检测。
 
-|image1|
+.. image:: http://image.iswbm.com/20190423162328.png
 
 上面是对一个旧的 Python 模块进行修改时，如何决定当前编辑的缩进方式。
 
@@ -21,12 +21,4 @@ Pycharm
 如下图，若在 ``Use tab character`` 打上勾，则你新建一个 Python
 后，就会使用 TAB 进行缩进，反之，则使用四个空格进行缩进。
 
-|image2|
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190423162328.png
-.. |image2| image:: http://image.iswbm.com/20190423163341.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190423163341.png

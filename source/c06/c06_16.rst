@@ -1,19 +1,10 @@
 6.16 【导航技巧 09】快速打开文件可用的工具栏
 ============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 使用快捷键：⌥ + F1
 
 会弹出一个窗口，窗口会显示该文件可用的工具窗口有哪一些，使用方向键进行选择。
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200829155949.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200829155949.png

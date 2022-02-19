@@ -1,7 +1,7 @@
 9.5 【必学技巧 05】阅读源码的六种方法
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在你使用一个模块的函数时，如果想查看这个函数的源码，有两个思路
 
@@ -26,13 +26,6 @@
 
 快捷键是：⌘ + ⇧ + I
 
-|image1|
+.. image:: http://image.iswbm.com/20190507153847.png
 
 --------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190507153847.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-

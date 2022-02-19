@@ -1,7 +1,7 @@
 9.16 【必学技巧 16】在Terminal 中打开文件夹
 ===========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当你想在 Terminal 中打开项目的文件夹时，也许你会这样操作
 
@@ -10,21 +10,13 @@
 
 先拷贝绝对路径，再打开 terminal 粘贴 路径进入
 
-|image1|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.49.10.gif
 
 第二种方法
 ----------
 
 PyCharm 直接为我们集成了 Terminal，我们可以直接点击进入
 
-|image2|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.52.21.gif
 
 --------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.49.10.gif
-.. |image2| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.52.21.gif
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-

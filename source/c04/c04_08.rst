@@ -24,7 +24,7 @@
 
 你可以通过右键调出此窗口
 
-|image0|
+.. image:: http://image.iswbm.com/20200826123123.png
 
 --------------
 
@@ -32,6 +32,3 @@
    :alt: img
 
    img
-
-.. |image0| image:: http://image.iswbm.com/20200826123123.png
-

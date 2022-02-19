@@ -1,7 +1,7 @@
 8.6 【绝佳工具 02】代码不规范？试试自动化 PEP8
 ==============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 ``pep8`` 是Python
 语言的一个代码编写规范。如若你是新手，目前只想快速掌握基础，而不想过多去注重代码的的编写风格（虽然这很重要），那你可以尝试一下这个工具
@@ -24,31 +24,21 @@
    Working directory: $ProjectFileDir$
    Output filters: $FILE_PATH$\:$LINE$\:$COLUMN$\:.*
 
-|image1|
+.. image:: http://image.iswbm.com/20190323164120.png
 
 我随意写了一段不符合 pep8 规范的代码。
 
-|image2|
+.. image:: http://image.iswbm.com/20190323211635.png
 
 点击右键，选择 ``External Tools`` -> ``AutoPep8``
 
-|image3|
+.. image:: http://image.iswbm.com/20190323211301.png
 
 看一下效果，还是挺明显的。
 
-|image4|
+.. image:: http://image.iswbm.com/20190324111603.png
 
 你可能会说，Pycharm 本身就自带这个功能了呀，快捷键
 ``Command``\ +\ ``Option``\ +\ ``L``
 ，就可以实现一键pep8了。你可以对比一下，Pycharm 自带的代码 pep8 化功能
 并没有像这个\ ``autopep8`` 来得彻底。 我相信你最终的选择肯定是后者。
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190323164120.png
-.. |image2| image:: http://image.iswbm.com/20190323211635.png
-.. |image3| image:: http://image.iswbm.com/20190323211301.png
-.. |image4| image:: http://image.iswbm.com/20190324111603.png
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-

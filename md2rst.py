@@ -1,22 +1,12 @@
 # coding:utf-8
 import os
-# import commands
 import subprocess
 import platform
 
 
-osName = platform.system()
-repo_path ='.'
-if (osName == 'Windows'):
-    repo_path = 'E:\\MING-Git\\pycharm-guide'
-    blog_path = 'E:\\MING-Git\\pycharm-guide\\source'
-    index_path = 'E:\\MING-Git\\pycharm-guide\\README.md'
-elif (osName == 'Darwin'):
-    repo_path = '/Users/MING/Github/pycharm-guide/'
-    blog_path = '/Users/MING/Github/pycharm-guide/source'
-    index_path = '/Users/MING/Github/pycharm-guide/README.md'
-
-
+pwd = os.getcwd()
+blog_path = os.path.join(pwd, "source")
+index_path = os.path.join(pwd, "README.md")
 
 base_link = "http://python.iswbm.com/en/latest/"
 readme_header = '''

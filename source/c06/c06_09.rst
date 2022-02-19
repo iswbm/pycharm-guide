@@ -1,20 +1,11 @@
 6.9 【导航技巧 02】在子类方法中快速进入父类方法
 ===============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 如下图所示
 
 1. 当前光标处于子类的 reset 方法
 2. 按下快捷键 ⌘ + U ，就会进入父类的 reset 方法
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2011.57.57.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2011.57.57.gif

@@ -1,7 +1,7 @@
 9.6 【必学技巧 06】快速重构，修改所有函数与变量
 ===============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在某同事离职交接代码时，有时候会在心里默默吐槽。
 
@@ -17,7 +17,7 @@
 比如下面这段代码，我只想改myfun
 里的的test_name，而对于全局下的同名变量是不应该修改的。如果你全局替换，就会有误伤。
 
-|image1|
+.. image:: http://image.iswbm.com/20190629211910.png
 
 这时候，我们如何做呢？
 
@@ -27,7 +27,7 @@
 操作方法很简单，先选中你的变量，然后使用快捷键
 Shift+F6，就可以直接重命名了。
 
-|image2|
+.. image:: https://i.loli.net/2019/06/29/5d1764b94d11128912.gif
 
 (GIF动态只播放两次，重播请刷新页面)
 
@@ -38,13 +38,4 @@ Shift+F6，就可以直接重命名了。
 
 更合适的方法是使用 ⌘ + F6，演示过程如下
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190629211910.png
-.. |image2| image:: https://i.loli.net/2019/06/29/5d1764b94d11128912.gif
-.. |image3| image:: http://image.iswbm.com/rename.gif
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/rename.gif

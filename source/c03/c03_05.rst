@@ -1,7 +1,7 @@
 3.5 【界面改造 05】关闭烦人的灯泡提示
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当我们在代码里面有语法错误，或者代码编写不符合 pep8
 代码规范时，鼠标选择有问题的代码，就会自动弹出小灯泡，这个灯泡是有颜色之分的，如果是红灯泡，一般都是语法问题，如果不处理会影响代码运行。而如果是黄灯泡，就只是一个提示，提示你代码不规范等，并不会影响程序的运行。
@@ -13,13 +13,4 @@
 我研究了下，Pycharm
 （2018版本）里是有开关按钮的，将下图中的这个选项（\ ``Show intention bulb``\ ）取消勾选，就可以关闭这个功能。
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/FuSSVa-aMqkfCaf62sbUoX2PLaYM
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/FuSSVa-aMqkfCaf62sbUoX2PLaYM

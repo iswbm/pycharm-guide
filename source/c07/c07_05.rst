@@ -1,7 +1,7 @@
 7.5 【版本管理 05】查看文件的所有操作记录
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 之前为了恢复因为手误造成的语法错误，我使用了快捷键来定位错误行，虽然解决了问题，但总感觉姿势不对，如果没有造成语法错误呢？如何追溯到是哪里的改动影响到了呢？
 
@@ -10,13 +10,4 @@
 太巧的是，今天我打开 PyCharm ，就给我推了这条 tip，使用 ⌥ + ⇧ +C
 就可以快速查看最近修改的内容
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190614235120.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190614235120.png

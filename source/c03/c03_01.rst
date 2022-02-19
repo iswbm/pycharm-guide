@@ -1,7 +1,7 @@
 3.1 【界面改造 01】打造颜值超高的界面
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 1. 你的IDE
 ----------
@@ -9,7 +9,7 @@
 当你从官网上下载下来一个 PyCharm
 后，若你不对其进行一些个性化设置，相信你一定无法容忍默认的丑陋界面，就像下面这样子。
 
-|image1|
+.. image:: http://image.iswbm.com/20200823105736.png
 
 上面这个界面，有很多可以吐槽的地方，我全部标了出来：
 
@@ -32,27 +32,27 @@ IDE 界面。
 
 点击 File - Setting 进入如下界面，按图中设置对应参数。
 
-|image2|
+.. image:: http://image.iswbm.com/20200831113012.png
 
 设置完成，点击 Apply 或者 OK，看下效果图，是不是舒服多了。
 
-|image3|
+.. image:: http://image.iswbm.com/20200831113110.png
 
 再来解决第四个问题。
 
 点击 File - Setting 进入如下界面，按图中设置对应参数。
 
-|image4|
+.. image:: http://image.iswbm.com/20200831113244.png
 
-|image5|
+.. image:: http://image.iswbm.com/20200831113421.png
 
 设置完这个后，你的代码就会有一种黑客即视感。
 
-|image6|
+.. image:: http://image.iswbm.com/20200823105947.png
 
 当然，你如果对这个高亮的颜色不是很满意，你还可以进行定制。修改完后，下面会有预览窗口。非常方便。
 
-|image7|
+.. image:: http://image.iswbm.com/20200823105956.png
 
 3. 主题下载
 -----------
@@ -66,29 +66,13 @@ Pycharm
 支持 JetBrains全系列主题下载，包括:InteliJ IDEA, PhpStorm, PyCharm,
 RubyMine, WebStorm and AppCode.
 
-|image8|
+.. image:: http://image.iswbm.com/20200823110134.png
 
 下载下来后，是一个\ ``jar``\ 包。 你需要通过 File - Import Settings
 导入。
 
-|image9|
+.. image:: http://image.iswbm.com/20200823110516.png
 
 最后，在 File - Setting - Editor - Colors & Fonts 里选择导入的主题。
 
-|image10|
-
-|image11|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200823105736.png
-.. |image2| image:: http://image.iswbm.com/20200831113012.png
-.. |image3| image:: http://image.iswbm.com/20200831113110.png
-.. |image4| image:: http://image.iswbm.com/20200831113244.png
-.. |image5| image:: http://image.iswbm.com/20200831113421.png
-.. |image6| image:: http://image.iswbm.com/20200823105947.png
-.. |image7| image:: http://image.iswbm.com/20200823105956.png
-.. |image8| image:: http://image.iswbm.com/20200823110134.png
-.. |image9| image:: http://image.iswbm.com/20200823110516.png
-.. |image10| image:: http://image.iswbm.com/20200831113606.png
-.. |image11| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200831113606.png

@@ -1,7 +1,7 @@
 8.7 【绝佳工具 03】HTTP接口调试：Test RESTful Web Service
 =========================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 PyCharm 的 Test RESTful Web
 Service工具提供了RESTful接口测试界面，如下图所示，提供了get、post，put等http方法，其中的Request子界面headers，Parameters，Body等功能，Response子界面用于显示返回值，Response
@@ -26,26 +26,16 @@ Headers用于显示返回的消息头。
 
 并运行它开启服务，访问地址是：http://127.0.0.1:5000/
 
-|image1|
+.. image:: http://image.iswbm.com/20200825075118.png
 
 通过下图方式打开 ``Test RESTful Web Service``
 
-|image2|
+.. image:: http://image.iswbm.com/20200825073354.png
 
 会出现如下界面，在红框处填写如下信息
 
-|image3|
+.. image:: http://image.iswbm.com/20200825075226.png
 
 然后点击最左边的运行按钮，即可向服务器发送 http 请求。
 
-|image4|
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200825075118.png
-.. |image2| image:: http://image.iswbm.com/20200825073354.png
-.. |image3| image:: http://image.iswbm.com/20200825075226.png
-.. |image4| image:: http://image.iswbm.com/20200825075434.png
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200825075434.png

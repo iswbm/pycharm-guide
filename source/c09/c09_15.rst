@@ -1,14 +1,14 @@
 9.15 【必学技巧 15】在文件管理器/Finder 中打开文件夹的三种方法
 ==============================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 第一种方法
 ----------
 
 点击右键，选择 ``Reveal in Finder`` （Mac 下）或者 ``Show in Explorer``
 
-|image1|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.24.21.gif
 
 第二种方法
 ----------
@@ -25,7 +25,7 @@
 再用鼠标单击，就会出现该文件的所有父级目录，使用 ↑ 或 ↓
 进行选择，最后调击回车就能在 Finder 或 资源管理器中打开。
 
-|image2|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.37.24.gif
 
 第三种方法
 ----------
@@ -34,15 +34,4 @@
 
 使用快捷键：⌥ + F1
 
-|image3|
-
---------------
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.24.21.gif
-.. |image2| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2009.37.24.gif
-.. |image3| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.47.55.gif
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.47.55.gif

@@ -6,12 +6,4 @@
 
 效果如下：
 
-|image0|
-
---------------
-
-|image1|
-
-.. |image0| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2017.41.51.gif
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2017.41.51.gif

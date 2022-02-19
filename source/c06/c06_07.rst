@@ -1,17 +1,8 @@
 6.7 【搜索技巧 07】显示当前方法的调用树：Method Hierarchy
 =========================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 按住快捷键 ⌃+ ⌥ + H
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200829123606.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200829123606.png

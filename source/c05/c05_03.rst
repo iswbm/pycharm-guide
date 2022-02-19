@@ -1,7 +1,7 @@
 5.3 【提高效率 03】一套快捷键，精准打开工具栏
 =============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在 PyCharm 的功能强大，每一处的空间都不值得浪费。
 
@@ -15,19 +15,9 @@
 仔细观察，不难发现，其实在按钮上的最前面已经提示了快捷键的序号。所以即使你忘记了也没关系，只要用眼睛瞟一下看一下序号，再在序号前面按个
 Command 就行了。
 
-|image1|
+.. image:: http://image.iswbm.com/20200828084019.png
 
 如果你想设置或修改他们的快捷键，可以在 ``Keymap`` -> ``Tool Windows``
 中设置
 
-|image2|
-
---------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200828084019.png
-.. |image2| image:: http://image.iswbm.com/20200828083810.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200828083810.png
