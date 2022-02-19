@@ -1,7 +1,7 @@
 5.4 【提高效率 04】使用模板，快速捕获异常
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当你想要对一个代码块进行异常捕获时，你是怎么做的呢？
 
@@ -17,7 +17,7 @@
 2. 按住 Ctrl + Alt + T
 3. 选择 ``try/except`` 模板
 
-|image1|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2011.11.37.gif
 
 从下拉的选项来看，除了 try/except 和 try/finally 外，还有：
 
@@ -26,12 +26,3 @@
 -  Comments
 
 但是这些，相对于使用原始的方法，个人感觉并没有更简便，因为该项功能，我更多的是使用捕获异常。
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2011.11.37.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-

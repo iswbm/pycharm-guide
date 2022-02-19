@@ -1,7 +1,7 @@
 5.1 【提高效率 01】复杂操作，录制成宏
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 如果你在使用PyCharm
 的时候，遇到有一些操作是比较复杂（步骤多），且使用频率特别高。
@@ -15,7 +15,7 @@ Ctrk + Y 删除该行，就删除了该函数。
 
 做录制方法如下：
 
-|image1|
+.. image:: https://i.loli.net/2019/06/29/5d176e9ba92e916696.gif
 
 (GIF动态只播放两次，重播请刷新页面)
 
@@ -24,21 +24,12 @@ Ctrk + Y 删除该行，就删除了该函数。
 
 这样播放宏显得有点繁琐，个人建议你为这个宏定义一个快捷键，这样会更方便播放宏。
 
-|image2|
+.. image:: http://image.iswbm.com/20190629221224.png
 
 设置快捷键时，注意不要和已有的快捷键冲突。
 
 设置好后，查看 Macro，发现PyCharm已经将这个快捷键绑定给这个宏。
 
-|image3|
+.. image:: http://image.iswbm.com/20190629221547.png
 
 之后你就可以使用这个快捷键删除一个函数（其实这只是删除一个代码块，但是这里只讨论设置方法）。
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: https://i.loli.net/2019/06/29/5d176e9ba92e916696.gif
-.. |image2| image:: http://image.iswbm.com/20190629221224.png
-.. |image3| image:: http://image.iswbm.com/20190629221547.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-

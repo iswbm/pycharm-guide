@@ -1,27 +1,18 @@
 3.8 【界面改造 08】代码太长？试试自动换行
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在使用PyCharm码代码的时候，有些单行的代码比较长或者屏幕比较小，经常需要手动拉动滚动条，才能看全代码。
 
-|image1|
+.. image:: http://image.iswbm.com/image-20210226223643723.png
 
 如果不想去动滚动条，其实可以设置超过屏幕宽度的代码自动代码的
 
 点击右键，勾选 ``Soft-Wrap`` 选项，就可以开启自动换行
 
-|image2|
+.. image:: http://image.iswbm.com/image-20210226223823548.png
 
 效果如下
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20210226223643723.png
-.. |image2| image:: http://image.iswbm.com/image-20210226223823548.png
-.. |image3| image:: http://image.iswbm.com/image-20210226223558987.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/image-20210226223558987.png

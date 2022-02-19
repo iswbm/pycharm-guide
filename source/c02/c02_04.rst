@@ -1,7 +1,7 @@
 2.4 【调试技巧 02】程序结束了，照样可以调试
 ===========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 假如我们在一个爬虫的项目中，会使用到 正则表达式
 来匹配我们想要抓取的内容。正则这种东西，有几个人能够一步到位的呢，通常都需要经过很多次的调试才能按预期匹配。在我们改了一次正则后，运行了下，需要重新向网站抓取请求，才能发现没有匹配上，然后又改了一版，再次运行同样需要发起请求，结果还是发现还是没有匹配上，往往复复，正则不好的同学可能要进行几十次的尝试。
@@ -17,16 +17,16 @@ Pycharm 中可以像 IPython Shell 和 Jupyter Notebook
 假如我在调试如下几行简单的代码。在第 3 行处打了个断点。然后点击图示位置
 ``Show Python Prompt`` 按钮。
 
-|image1|
+.. image:: http://image.iswbm.com/Fi3N02x9OeOPatGdaReam_icn9G_
 
 就进入了 ``Python Shell`` 的界面，这个Shell
 环境和我们当前运行的程序环境是打通的，变量之间可以互相访问，这下你可以轻松地进行调试了。
 
-|image2|
+.. image:: http://image.iswbm.com/Fj1W53Txj0iFs5eYhFYh_dHlPtIL
 
 上面我们打了个断点，是为了方便说明这个效果。并不是说一定要打断点。如果不打断点，在脚本执行完成后，也仍然可以在这个界面查看并操作所有变量。
 
-|image3|
+.. image:: http://image.iswbm.com/FlMsB7B1x6ET9mLOgydTWuTEXuOe
 
 现在我们已经可以满足我们的调试的需求，但是每次运行脚本，都要手动点击
 ``Show Python Prompt``
@@ -34,11 +34,11 @@ Pycharm 中可以像 IPython Shell 和 Jupyter Notebook
 
 你需要点击图示位置 ``Edit Configurations`` 处。
 
-|image4|
+.. image:: http://image.iswbm.com/FmfL3r0iWx_srT_xMASBEp1ZaaId
 
 然后在这里打勾选中。
 
-|image5|
+.. image:: http://image.iswbm.com/FiNCYpVlI93gk1zhOdQn4c0A8FMX
 
 设置上之后，之后你每次运行后脚本后，都会默认为你存储所有变量的值，并为你打开
 console 命令行调试界面。
@@ -49,22 +49,9 @@ debug 模式运行项目，并打断点。
 使用方法就是，在你打了断点后，在图示位置处，点击右键使用
 ``Evaluate Expression``
 
-|image6|
+.. image:: http://image.iswbm.com/FrAq1tVRM7Bz948wRqZFzU2PQnI0
 
 就弹出了一个 ``Evaluate Expression`` 窗口，这里
 可以运行命令表达式，直接操作变量。
 
-|image7|
-
-|image8|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Fi3N02x9OeOPatGdaReam_icn9G_
-.. |image2| image:: http://image.iswbm.com/Fj1W53Txj0iFs5eYhFYh_dHlPtIL
-.. |image3| image:: http://image.iswbm.com/FlMsB7B1x6ET9mLOgydTWuTEXuOe
-.. |image4| image:: http://image.iswbm.com/FmfL3r0iWx_srT_xMASBEp1ZaaId
-.. |image5| image:: http://image.iswbm.com/FiNCYpVlI93gk1zhOdQn4c0A8FMX
-.. |image6| image:: http://image.iswbm.com/FrAq1tVRM7Bz948wRqZFzU2PQnI0
-.. |image7| image:: http://image.iswbm.com/Fo2aEraqbj_2KqDt44EzJTVe8pEf
-.. |image8| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Fo2aEraqbj_2KqDt44EzJTVe8pEf

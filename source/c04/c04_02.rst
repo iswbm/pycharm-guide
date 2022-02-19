@@ -1,16 +1,8 @@
 4.2 【高效编辑 02】缩进和反缩进
 ===============================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 缩进的快捷键是：tab
 
 反缩进的快捷键是：Shift + tab
-
---------------
-
-|image1|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
-

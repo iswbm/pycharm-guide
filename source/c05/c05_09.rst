@@ -1,7 +1,7 @@
 5.9 【提高效率 09】选择代码块的最快方法
 =======================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 有时候我们需要选择一个代码块做一些操作，可能是复制，也可能是删除，或者是其他行为。
 
@@ -17,19 +17,11 @@
 
 通过鼠标左键双击代码块的左边空白区域，就可以快速选取，效果如下
 
-|image1|
+.. image:: http://image.iswbm.com/select-codeblock.gif
 
 第二种
 ------
 
 先将代码块进行收缩起来，再进行选择操作
 
-|image2|
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/select-codeblock.gif
-.. |image2| image:: http://image.iswbm.com/select-codeblock2.gif
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/select-codeblock2.gif

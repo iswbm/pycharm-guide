@@ -1,7 +1,7 @@
 3.6 【界面改造 06】小屏幕必看：开启大屏幕编码模式
 =================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 如果你是使用笔记本来写代码的，那你一定知道，小屏幕写代码的体验可真是太糟糕了。
 
@@ -12,11 +12,11 @@
 
 按下图点击， 就可以开启全屏模式
 
-|image1|
+.. image:: http://image.iswbm.com/20210326094747.png
 
 如果你觉得每次这样设置，路径有点长，可以为它设置个快捷键
 
-|image2|
+.. image:: http://image.iswbm.com/20210326095031.png
 
 第二个技巧
 ----------
@@ -24,21 +24,9 @@
 如果你的 PyCharm
 开启了太多的工具栏，左边，右边，下边，大部分的空间都被工具栏占用了。（如下图）
 
-|image3|
+.. image:: http://image.iswbm.com/image-20200829204125502.png
 
 此时你可以使用快捷键：Ctrl + Shift +
 F12，将这些工具栏全部隐藏掉，隐藏掉后再按一次，原来的界面就又回来了。
 
-|image4|
-
---------------
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20210326094747.png
-.. |image2| image:: http://image.iswbm.com/20210326095031.png
-.. |image3| image:: http://image.iswbm.com/image-20200829204125502.png
-.. |image4| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2020.49.17.gif
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2020.49.17.gif

@@ -1,7 +1,7 @@
 7.3 【版本管理 03】媲美beyond compare 的差异对比功能
 ====================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 程序开发必备神器中，beyond compare 绝对可以排一号。
 
@@ -13,11 +13,4 @@
 
 对比示例，可以查看下面这张图，UI做的还是挺好看的。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190721125739.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190721125739.png

@@ -1,20 +1,13 @@
 6.15 【导航技巧 08】向左/向右切换标签页
 =======================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 PyCharm 原生切换到左/右标签页的快捷键是
 
 -  Alt + ← ：切换到左边标签页
 -  Alt + → ：切换到右边标签页
 
-|image1|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.34.20.gif
 
 --------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.34.20.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-

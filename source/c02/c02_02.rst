@@ -1,7 +1,7 @@
 2.2 【运行技巧 02】通过指定参数，执行程序
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 你在 Pycharm 运行你的项目，通常是怎么执行的？我的做法是，右键，然后点击
 ``Run``\ ，或者使用快捷键 ``Shift + F10`` 。
@@ -17,22 +17,13 @@
 对于刚使用 Pycharm 的同学，可能并不知道 Pycharm
 也是可以指定参数的。点击下图位置
 
-|image1|
+.. image:: http://image.iswbm.com/FmfL3r0iWx_srT_xMASBEp1ZaaId
 
 进入设置面板，在 ``Script parameters`` 中填入参数即可。
 
-|image2|
+.. image:: http://image.iswbm.com/FujczKwTUPa8l5EEmS0eoh-zL1Nk
 
 同时在上图的底部，你可以看到，这里可以很方便的切换
 解释器，比你跑到这边来要容易得多吧
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/FmfL3r0iWx_srT_xMASBEp1ZaaId
-.. |image2| image:: http://image.iswbm.com/FujczKwTUPa8l5EEmS0eoh-zL1Nk
-.. |image3| image:: http://image.iswbm.com/Fq60WOdcRJopqV6MVoRcIuZclYKx
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Fq60WOdcRJopqV6MVoRcIuZclYKx

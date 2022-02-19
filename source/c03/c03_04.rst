@@ -1,14 +1,14 @@
 3.4 【界面改造 04】开启多行标签页
 =================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 PyCharm 打开一个文件，就占用一个标签面。
 
 你有没有发现，不知不觉地，打开的文件越来越多，多到一行标签都装不下，装不下的标签页
 PyCharm 会将其隐藏起来，并以数字的形式告诉你隐藏了几个文件。
 
-|image1|
+.. image:: http://image.iswbm.com/20190629223534.png
 
 点击数字5，你才可以查看隐藏了哪些文件。
 
@@ -18,17 +18,8 @@ PyCharm 会将其隐藏起来，并以数字的形式告诉你隐藏了几个文
 
 如下图，将单行显示取消勾选即可。
 
-|image2|
+.. image:: http://image.iswbm.com/20190629224229.png
 
 设置完后，有哪些文件就非常清晰了。
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190629223534.png
-.. |image2| image:: http://image.iswbm.com/20190629224229.png
-.. |image3| image:: http://image.iswbm.com/20190629224430.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190629224430.png

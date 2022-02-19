@@ -1,7 +1,7 @@
 9.10 【必学技巧 10】快速移动/拷贝文件：F6/F5
 ============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当你要把一个文件拖动到另外一个目录的时候，正常人的操作有两种：
 
@@ -13,16 +13,8 @@ PyCharm 对于这种重构操作，有更方便的入口。
 
 只要按住 F6 就会弹出一个 Move Module 的窗口，直接选目标目录就可以。
 
-|image1|
+.. image:: http://image.iswbm.com/20200826123915.png
 
 除了移动之外 ，拷贝也是可以的。快捷键变成了 F5
 
-|image2|
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200826123915.png
-.. |image2| image:: http://image.iswbm.com/20200826124400.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200826124400.png

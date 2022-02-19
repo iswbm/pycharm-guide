@@ -1,16 +1,16 @@
 9.4 【必学技巧 04】以列为单位的块编辑
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 先给你出道小题，像下面这段代码，如果在不影响代码的情况下，快速删除后面代码后面的注释呢？
 
-|image1|
+.. image:: http://image.iswbm.com/20190721132238.png
 
 我能想到的有两种方法，如果像如上这种有规律的注释，可以使用 ``正则匹配``
 + ``替换`` 来实现。
 
-|image2|
+.. image:: http://image.iswbm.com/20190721133403.png
 
 对于这个场景我想到了可以用 vim来轻松的解决，vim
 支持块编辑，可以以列为单位选择区域然后进行操作，这在vim中是很常用的一个取消注释的操作。
@@ -20,7 +20,7 @@
 如果你使用的是旧版本的 PyCharm ，当你按住
 alt，然后使用鼠标进行选择，你会发现这样一件神奇的事情。
 
-|image3|
+.. image:: https://i.loli.net/2019/07/21/5d3401410087b61815.gif
 
 如若上面的快捷键不生效，说明你的 PyCharm
 是旧版本，在较版本中，有两种方法开启列选择模式
@@ -30,12 +30,3 @@ alt，然后使用鼠标进行选择，你会发现这样一件神奇的事情�
 2、点击右键，选择 『Column Selection Mode』
 
 在新版本中，列选择的功能变成了一种模式，开启才能使用，使用完后还需要关闭。相比旧版本，个人认为这个改变不好，不能即用即走。
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190721132238.png
-.. |image2| image:: http://image.iswbm.com/20190721133403.png
-.. |image3| image:: https://i.loli.net/2019/07/21/5d3401410087b61815.gif
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-

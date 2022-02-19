@@ -1,7 +1,7 @@
-6.10 【导航技巧 03】前进/后退 到上次“点击”的地方
+6.10 【导航技巧 03】前进/后退 到上次”点击”的地方
 ================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 本节写的前进/后退，是指光标点击的位置。
 
@@ -14,20 +14,20 @@
 
 因为你的界面上可能没有这两个按钮
 
-|image1|
+.. image:: http://image.iswbm.com/20200829142103.png
 
 怎么打开这个工具栏呢，看下图
 
-|image2|
+.. image:: http://image.iswbm.com/20210326105119.png
 
 设置显示工具栏后，在界面上就会有如下两个按钮
 
-|image3|
+.. image:: http://image.iswbm.com/20200829142343.png
 
 第二种：使用菜单栏
 ------------------
 
-|image4|
+.. image:: http://image.iswbm.com/20210326105018.png
 
 第三种：使用快捷键
 ------------------
@@ -35,15 +35,3 @@
 **后退**\ ：回到上一次光标的位置，Alt + Ctrl + ←
 
 **前进**\ ：回到后一次光标的位置，Alt + Ctrl + →
-
---------------
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200829142103.png
-.. |image2| image:: http://image.iswbm.com/20210326105119.png
-.. |image3| image:: http://image.iswbm.com/20200829142343.png
-.. |image4| image:: http://image.iswbm.com/20210326105018.png
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-

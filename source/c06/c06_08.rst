@@ -1,7 +1,7 @@
 6.8 【导航技巧 01】跳转到最后编辑的地方
 =======================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 根据开源框架定制功能，是我每天都要做的事情。
 
@@ -17,13 +17,4 @@
 你只要按下快捷键：Ctrl + Shift +
 Backspace，不管你在哪里，是同文件下，还是不同文件下，都可以回到你最后编辑的位置，下面我来演示下
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2014.12.12.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2014.12.12.gif

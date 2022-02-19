@@ -1,7 +1,7 @@
 6.4 【搜索技巧 04】搜索时过滤测试文件
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 接下来，介绍一个，我看框架源码的时的一个小技巧，可能只适用一小部分人吧。
 
@@ -10,18 +10,10 @@
 时带来了不小的困扰，你可以从下图的搜索结果中感受一下，搜索一个函数，test
 文件里的结果比 正常文件要多很多。
 
-|image1|
+.. image:: http://image.iswbm.com/FlXynbyxh8tTrCpc4tVLqycL7JQm
 
 这些测试文件的搜索结果，对于我们看源代码不仅没有任何帮助的，更重要的是还干扰视线。于是我就研究了一下，从文件名入手，只要在
 ``File mask`` 里填写 ``!test*``
 可以将这些test文件过滤掉。搜索结果一下子清晰很多。
 
-|image2|
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/FlXynbyxh8tTrCpc4tVLqycL7JQm
-.. |image2| image:: http://image.iswbm.com/FiD91PR1hUu0Ruc6cmZ7EGNM6Be_
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/FiD91PR1hUu0Ruc6cmZ7EGNM6Be_

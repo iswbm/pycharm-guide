@@ -1,7 +1,7 @@
 1.2 【安装使用 01】下载使用社区版
 =================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 1. 下载链接
 -----------
@@ -15,38 +15,38 @@ PyCharm for Mac
 PyCharm for Linux
 ：https://www.jetbrains.com/pycharm/download/#section=linux
 
-|image1|
+.. image:: http://image.iswbm.com/20200901213017.png
 
 2. 安装步骤
 -----------
 
 下载完成后，双击 exe 文件
 
-|image2|
+.. image:: http://image.iswbm.com/20200901213223.png
 
 选择安装目录，Pycharm需要的内存较多，建议将其安装在D盘或者E盘，不建议放在系统盘C盘：
 
-|image3|
+.. image:: http://image.iswbm.com/20200901213310.png
 
 选好路径后，点击 Next ，创建桌面快捷方式等一系列选项参照下图勾选！
 
-|image4|
+.. image:: http://image.iswbm.com/20200901213325.png
 
 最后默认安装即可，直接点击Install。
 
-|image5|
+.. image:: http://image.iswbm.com/20200901213415.png
 
 7、耐心的等待两分钟左右。
 
 之后就会得到下面的安装完成的界面
 
-|image6|
+.. image:: http://image.iswbm.com/20200901213504.png
 
 点击Finish，Pycharm安装完成。
 
 接下来对Pycharm进行配置，双击运行桌面上的Pycharm图标，进入下图界面：
 
-|image7|
+.. image:: http://image.iswbm.com/20200901213526.png
 
 选择Do not import settings，之后选择OK，进入下一步。
 
@@ -56,22 +56,8 @@ PyCharm for Linux
 
 -> 点击Next:Featured plugins
 
-|image8|
+.. image:: http://image.iswbm.com/20200901213602.png
 
 建议选择Darcula主题，该主题更有利于保护眼睛。
 
 至此，PyCharm 就安装完成。
-
-|image9|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200901213017.png
-.. |image2| image:: http://image.iswbm.com/20200901213223.png
-.. |image3| image:: http://image.iswbm.com/20200901213310.png
-.. |image4| image:: http://image.iswbm.com/20200901213325.png
-.. |image5| image:: http://image.iswbm.com/20200901213415.png
-.. |image6| image:: http://image.iswbm.com/20200901213504.png
-.. |image7| image:: http://image.iswbm.com/20200901213526.png
-.. |image8| image:: http://image.iswbm.com/20200901213602.png
-.. |image9| image:: http://image.iswbm.com/20200607174235.png
-
