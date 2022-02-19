@@ -1,7 +1,7 @@
 6.18 【导航技巧 11】善用 TODO 记录待办事项
 ==========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 一个程序员，如果能够一天都只和代码打交道，是一件多么难得的事情。
 
@@ -27,21 +27,11 @@
 开头。然后，你要查看全局项目中的所有 TODO 事项的时候，可以使用快捷键调出
 TODO 面板。快捷键： Alt+6。
 
-|image1|
+.. image:: http://image.iswbm.com/20190616231649.png
 
 另外，我还使用这个来记录下个版本要优化的代码逻辑，要添加的功能。
 
 如果是比较紧急的 BUG，可以使用类似 TODO 的标记 — ``FIXME``
 来区分紧急程度。
 
-|image2|
-
---------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190616231649.png
-.. |image2| image:: http://image.iswbm.com/20190616232527.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190616232527.png

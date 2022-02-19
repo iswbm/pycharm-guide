@@ -1,7 +1,7 @@
 8.1 【插件神器 01】在 PyCharm 中使用 vim
 ========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在大多数场景之下，使用鼠标的效率和精准度，是远不如键盘快捷键的（前提是你已经相当熟练的掌握了快捷键），这个你得承认吧。
 
@@ -12,11 +12,4 @@ Pycharm 中 使用 vim 来编辑代码。
 
 安装方法如下，安装完后需要重启 Pycharm 生效。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190323214545.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190323214545.png

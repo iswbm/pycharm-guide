@@ -1,24 +1,14 @@
 6.5 【搜索技巧 05】当前文件替换与全局替换
 =========================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 替换主要分两种：
 
 1. 在当前文件里替换，快捷键是：Ctrl + R
 
-   |image1|
+   .. image:: http://image.iswbm.com/image-20200829172425808.png
 
 2. 在全局项目下替换，快捷键是：Ctrl + Shift + R
 
-   |image2|
-
---------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200829172425808.png
-.. |image2| image:: http://image.iswbm.com/image-20200829172450895.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+   .. image:: http://image.iswbm.com/image-20200829172450895.png

@@ -1,7 +1,7 @@
 9.14 【必学技巧 14】自动导入解决依赖：Alt+Enter
 ===============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 当你使用某个包的某个函数，一般都是需要先导入该包，才能使用的。
 
@@ -12,13 +12,4 @@
 
 最终的使用效果如下：
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/autoimport.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/autoimport.gif

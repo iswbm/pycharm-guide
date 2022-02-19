@@ -3,7 +3,7 @@
 
 快捷键：Ctrl + P
 
-|image0|
+.. image:: http://image.iswbm.com/image-20200829182931219.png
 
 --------------
 
@@ -11,6 +11,3 @@
    :alt: img
 
    img
-
-.. |image0| image:: http://image.iswbm.com/image-20200829182931219.png
-

@@ -1,31 +1,22 @@
 7.2 【版本管理 02】三种查看文件的修改
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 如果你的项目在 git
 的管理之下，在你修改了文件后，你会有很多种方法来查看自己到底修改了什么？
 
 第一种当然是使用 git diff
 
-|image1|
+.. image:: http://image.iswbm.com/20200420085524.png
 
 第二种是使用之前写的 show history
 
-|image2|
+.. image:: http://image.iswbm.com/20200420090117.png
 
 第三种，也是今天要介绍的，是最简便，也是直接的方法。
 
 在有文本变动的位置，PyCharm
 会有提示，如下红色箭头标识处，点击它就可以直接查看，还可以快速回滚。
 
-|image3|
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200420085524.png
-.. |image2| image:: http://image.iswbm.com/20200420090117.png
-.. |image3| image:: http://image.iswbm.com/20200420090428.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200420090428.png

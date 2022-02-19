@@ -1,7 +1,7 @@
 5.2 【提高效率 02】使用收藏夹，收藏关键代码位
 =============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在一个项目中，会有许多的比较关键的代码逻辑入口，比如我使用的 OpenStack
 框架：
@@ -16,7 +16,7 @@
 加入收藏夹的快捷键是：Alt + Shift + F
 ，敲下之后，会让你选择是要加入哪个收藏夹，你也可以选择新建一个收藏夹。
 
-|image1|
+.. image:: http://image.iswbm.com/image-20200829223345663.png
 
 加入收藏夹后，可以再使用快捷键：Ctrl +
 2，打开收藏夹工具栏，点击相应的位置进行跳转。
@@ -24,19 +24,9 @@
 如果你想对收藏夹的名字进行修改，可以右键，有一个 Rename Favorites List
 的按钮。
 
-|image2|
+.. image:: http://image.iswbm.com/20200829223552.png
 
 个人感觉这个功能比书签弱好多，书签可以对位置进行重重名，而收藏夹不能对收藏的位置进行命名。
 
 想了解 书签
-的使用方法的，可以点击这里：\ `在项目中使用书签，快速定位 <http://pycharm.iswbm.com/en/latest/c06/c06_02.html>`__
-
---------------
-
-|image3|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/image-20200829223345663.png
-.. |image2| image:: http://image.iswbm.com/20200829223552.png
-.. |image3| image:: http://image.iswbm.com/20200607174235.png
-
+的使用方法的，可以点击这里：\ `在项目中使用书签，快速定位 <https://pycharm.iswbm.com/c06/c06_02.html>`__

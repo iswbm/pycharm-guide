@@ -1,12 +1,12 @@
 3.2 【界面改造 02】关闭碍眼的波浪线
 ===================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 下面我先给出了一小段代码示例，思考一下，为什么name，my_name
 不会有波浪线，而 myname 和 wangbm 会有波浪线呢？
 
-|image1|
+.. image:: http://image.iswbm.com/FtFPI89AOKmPLNpNxf-jdkn1BDLW
 
 Pycharm
 本身会实时地对变量名进行检查，如果变量名不是一个已存在的英文单词，就会出现一条波浪线，当一个变量里有多个单词时，Python
@@ -19,23 +19,13 @@ myname 会被当成是一个单词对待，由于它在单词库里并没有它�
 这种风格的变量命名方法，像下面这样（随便找了一段 cloudinit
 的代码），是让人挺不舒服的，总有一种代码有 bug 的错觉。
 
-|image2|
+.. image:: http://image.iswbm.com/FiKyU6tjQauWXfaVfKLhwi3NkXBf
 
 那么如何关闭这个非语法级别的波浪线呢？很简单，它的开关就在你的右下角那个像
 人头像 一样的按钮
 
-|image3|
+.. image:: http://image.iswbm.com/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
 
 然后选择 ``Syntax`` 级别的即可。同样一段代码，效果如下，干净了很多。
 
-|image4|
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/FtFPI89AOKmPLNpNxf-jdkn1BDLW
-.. |image2| image:: http://image.iswbm.com/FiKyU6tjQauWXfaVfKLhwi3NkXBf
-.. |image3| image:: http://image.iswbm.com/FsAM-8HyzSrLWZJ_lg3ofw84_ibf
-.. |image4| image:: http://image.iswbm.com/FgJCtNYkjPfBaTbRxwb3Z6icHqkf
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/FgJCtNYkjPfBaTbRxwb3Z6icHqkf

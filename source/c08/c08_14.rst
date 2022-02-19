@@ -1,7 +1,7 @@
 8.14 【插件神器 07】JSON美化插件：Json Parser
 =============================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在开发过程中，经常会把校验一串 JSON
 字符串是否合法，在以前我的做法都是打开 https://tool.lu/json/
@@ -21,11 +21,3 @@
    :alt: img
 
    img
-
---------------
-
-|image1|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
-

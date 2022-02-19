@@ -1,7 +1,7 @@
 8.9 【绝佳工具 05】一键进行代码性能分析
 =======================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在 Python 中有许多模块可以帮助你分析并找出你的项目中哪里出现了性能问题。
 
@@ -41,11 +41,11 @@ cProfile，在某些框架中，也内置了中间件帮助你进行性能分析
 
 点击 Run -> Profile ‘程序’ ，即可进行性能分析。
 
-|image1|
+.. image:: http://image.iswbm.com/20190507222856.png
 
 运行完毕后，会自动跳出一个性能统计界面。
 
-|image2|
+.. image:: http://image.iswbm.com/20190507222119.png
 
 性能统计界面由Name、Call Count、Time(ms)、Own Time(ms)
 ，4列组成一个表格，见下图。
@@ -59,7 +59,7 @@ cProfile，在某些框架中，也内置了中间件帮助你进行性能分析
 点击 Call
 Graph（调用关系图）界面直观展示了各函数直接的调用关系、运行时间和时间百分比，见下图。
 
-|image3|
+.. image:: http://image.iswbm.com/20190507223313.png
 
 右上角的4个按钮表示放大、缩小、真实大小、合适大小；
 
@@ -70,12 +70,3 @@ Graph（调用关系图）界面直观展示了各函数直接的调用关系、
    绿色，由图可以看出fun3的矩形为黄绿色，fun1为绿色，所有fun3运行时间比fun1长。
 5. 从图中可以看出Test.py直接调用了fun3、fun1、fun2和fun5函数；fun5函数直接调用了fun4函数；fun1、fun2、fun3、fun4和fun5都直接调用了print以及sleep函数；整个测试代码运行的总时间为6006ms，其中fun3的运行时间为1999ms，所占的时间百分比为33.3%，也就是
    1999ms / 6006ms = 33.3%。
-
-|image4|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190507222856.png
-.. |image2| image:: http://image.iswbm.com/20190507222119.png
-.. |image3| image:: http://image.iswbm.com/20190507223313.png
-.. |image4| image:: http://image.iswbm.com/20200607174235.png
-

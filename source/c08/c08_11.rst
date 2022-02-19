@@ -1,7 +1,7 @@
 8.11 【绝佳工具 07】在 PyCharm 运行 Jupyter Notebook
 ====================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 使用 Jupyter 之前 ，先要安装它
 
@@ -11,11 +11,11 @@
 
 然后按照下图指示新建一个 Notebook ，就可以开始运作了。
 
-|image1|
+.. image:: http://image.iswbm.com/20200827204703.png
 
 这个界面感觉和 Jupyter 的风格不太符
 
-|image2|
+.. image:: http://image.iswbm.com/20200827204918.png
 
 但是使用上是没有什么区别的，记住三个快捷键就好(下面指的是 Mac
 上的，Windows 上的有所不同)
@@ -24,21 +24,9 @@
 -  Option + shift + ↩：调试该 cell
 -  Shift + ↩：插入一个新的 cell
 
-|image3|
+.. image:: http://image.iswbm.com/20200827205529.png
 
 只要你安装了 Jupyter 后，你使用 Python Console 也会自动变成 Jupyter
 的模式
 
-|image4|
-
---------------
-
-|image5|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20200827204703.png
-.. |image2| image:: http://image.iswbm.com/20200827204918.png
-.. |image3| image:: http://image.iswbm.com/20200827205529.png
-.. |image4| image:: http://image.iswbm.com/20200827205742.png
-.. |image5| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20200827205742.png

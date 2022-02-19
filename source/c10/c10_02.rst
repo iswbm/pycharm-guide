@@ -1,17 +1,10 @@
 10.2 【数据库操作 02】切换数据库
 ================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在 Console 中写 sql 语句的时候，是不用使用 ``use <db>``
 来选择数据库的，默认选中的就是
 mysql，如果你想切换数据库，可以点如下图的位置，进行切换。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20210327140428.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20210327140428.png

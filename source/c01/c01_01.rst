@@ -1,7 +1,7 @@
 1.1 【版本介绍】多个版本的介绍与选择
 ====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 Jetbrain 公司是一家专业的 IDE
 生产商，只要是市面上主流的编程语言，Jetbrain 都有相应的产品。
@@ -27,11 +27,4 @@ IDEA，C 语言对应 Clion 等等。
 可以看出专业版比社区版多了
 ``科学工具``\ 、\ ``WEB 开发``\ 、\ ``Python Web 框架``\ 、\ ``Python 代码分析``\ 、\ ``远程开发调试``\ 、\ ``数据库支持``\ 。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190506150523.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190506150523.png

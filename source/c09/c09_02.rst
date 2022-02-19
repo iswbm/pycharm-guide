@@ -1,7 +1,7 @@
 9.2 【必学技巧 02】误删项目？一秒找回
 =====================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 有一次由于自己的误操作，在没有任何备份的情况下，将一个自己写了两个星期的项目给删除了。待我回头神来的时候，我甚至都记不起是何时进行的删除操作。
 
@@ -26,11 +26,4 @@ Pycharm 的隐藏的一个功能
 ``Show History``\ ，你可以看到这里有个记录板。如果你想恢复删除的文件，就在删除的记录项点击右键，选择
 ``Revert`` 即可恢复。
 
-|image1|
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20190323153643.png
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/20190323153643.png

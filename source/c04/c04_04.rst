@@ -7,12 +7,4 @@
 
 那就是：Shift + ↩，无论你的光标在哪里，都会另起一行，效果如下：
 
-|image0|
-
---------------
-
-|image1|
-
-.. |image0| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2017.49.28.gif
-.. |image1| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2017.49.28.gif

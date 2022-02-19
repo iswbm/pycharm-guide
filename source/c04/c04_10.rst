@@ -3,15 +3,15 @@
 
 快捷键：Ctrl + Shift + ↩，自动结束代码，行末自动添加分号
 
-|image0|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.42.49.gif
 
 快捷键：Alt + ↩，也称万能键，显示意向动作和快速修复代码
 
-|image1|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.40.36.gif
 
 快捷键：Ctrl + Shift + J， 智能的将代码拼接成一行
 
-|image2|
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.44.36.gif
 
 快捷键：Ctrl + ↩，智能的拆分拼接的行(未实践)
 
@@ -21,8 +21,3 @@
    :alt: img
 
    img
-
-.. |image0| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.42.49.gif
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.40.36.gif
-.. |image2| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2018.44.36.gif
-

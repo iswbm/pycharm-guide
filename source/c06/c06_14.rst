@@ -1,20 +1,11 @@
 6.14 【导航技巧 07】跳转到上/下一个方法
 =======================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 PyCharm 原生跳转到上/下一个方法的快捷键是
 
 -  Alt + ↑ ：跳转到上一个方法
 -  Alt + ↓ ：跳转到下一个方法
 
-|image1|
-
---------------
-
-|image2|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.14.59.gif
-.. |image2| image:: http://image.iswbm.com/20200607174235.png
-
+.. image:: http://image.iswbm.com/Kapture%202020-08-29%20at%2015.14.59.gif

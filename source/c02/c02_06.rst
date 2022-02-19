@@ -1,7 +1,7 @@
 2.6 【开发环境 01】使用Vagrant 搭建一劳永逸开发环境
 ===================================================
 
-|image0|
+.. image:: http://image.iswbm.com/20200804124133.png
 
 在开发过程中难免遇到开发半小时，环境整半天的尴尬。
 
@@ -21,7 +21,7 @@ vagrant 下载地址：https://www.vagrantup.com/downloads
 在下载的时候，会提示你选择虚拟化软件，在这里我们选择 virtualbox
 （注意：请提前安装 virtualbox），既免费又轻量。
 
-|image1|
+.. image:: http://image.iswbm.com/20210327092117.png
 
 2. 初始化项目
 -------------
@@ -31,7 +31,7 @@ vagrant 下载地址：https://www.vagrantup.com/downloads
 
 最后，直接用这条命令 ``vagrant up`` 启动虚拟机
 
-|image2|
+.. image:: http://image.iswbm.com/20210327095217.png
 
 虚拟机启动之后，就可以使用 ``vagrant ssh`` 直接 ssh
 进入虚拟机（明哥注：Windows 只能使用远程登陆软件登陆
@@ -41,7 +41,7 @@ vagrant 下载地址：https://www.vagrantup.com/downloads
 
 虚拟机里的 ``/vagrant/`` 目录就对应你宿主机上的 项目根目录
 
-|image3|
+.. image:: http://image.iswbm.com/20210327095433.png
 
 如果你想添加更多的文件夹映射，可以编辑 Vagrantfile 文件，在 end
 前，添加下面这一行
@@ -60,24 +60,24 @@ PyCharm 不愧是最专业的 Python IDE ，它对 Vagrant
 
 首先，确保你的 vagrant 插件已经安装
 
-|image4|
+.. image:: http://image.iswbm.com/20210327093327.png
 
 然后，在 Tools -> Vagrant 中配置 vagrant 的信息
 
-|image5|
+.. image:: http://image.iswbm.com/20210327093615.png
 
 最后，再在 Project -> Python Interpreter 里添加 Vagrant 虚拟机里的
 Python 解释器
 
-|image6|
+.. image:: http://image.iswbm.com/20210327095106.png
 
 配置完了后，无论在 Setting 里面
 
-|image7|
+.. image:: http://image.iswbm.com/20210327095516.png
 
 还是在项目界面里看到的 Python 解释器都是 Vagrant 里的 Python
 
-|image8|
+.. image:: http://image.iswbm.com/20210327095554.png
 
 在这样的一个环境下，你新建的所有 Python 项目文件，都会被同步到 Vagrant
 虚拟机中的 ``/vagrant/`` 目录下，你在本地运行 Python 项目，其实都是在
@@ -87,17 +87,3 @@ Vagrant 虚拟机中运行。
 ，那完全可以将这些组件全部安装在这个 Vagrant
 虚拟机中，打包成镜像，然后把这个镜像和项目（包括 ``.vagrant`` 文件夹 和
 ``Vagrantfile``\ ）发给你的同事，他们就能很快的也拥有一套可以稳定运行的项目运行环境。
-
-|image9|
-
-.. |image0| image:: http://image.iswbm.com/20200804124133.png
-.. |image1| image:: http://image.iswbm.com/20210327092117.png
-.. |image2| image:: http://image.iswbm.com/20210327095217.png
-.. |image3| image:: http://image.iswbm.com/20210327095433.png
-.. |image4| image:: http://image.iswbm.com/20210327093327.png
-.. |image5| image:: http://image.iswbm.com/20210327093615.png
-.. |image6| image:: http://image.iswbm.com/20210327095106.png
-.. |image7| image:: http://image.iswbm.com/20210327095516.png
-.. |image8| image:: http://image.iswbm.com/20210327095554.png
-.. |image9| image:: http://image.iswbm.com/20200607174235.png
-
