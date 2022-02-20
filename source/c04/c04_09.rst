@@ -5,9 +5,7 @@
 
 .. image:: http://image.iswbm.com/image-20200829182931219.png
 
---------------
 
-.. figure:: http://image.iswbm.com/20200607174235.png
    :alt: img
 
    img

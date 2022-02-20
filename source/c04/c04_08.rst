@@ -26,9 +26,7 @@
 
 .. image:: http://image.iswbm.com/20200826123123.png
 
---------------
 
-.. figure:: http://image.iswbm.com/20200607174235.png
    :alt: img
 
    img

@@ -15,9 +15,7 @@
 
 快捷键：Ctrl + ↩，智能的拆分拼接的行(未实践)
 
---------------
 
-.. figure:: http://image.iswbm.com/20200607174235.png
    :alt: img
 
    img
