@@ -23,7 +23,7 @@
 
 为了满足这些朋友的需要，我也花了一点时间，整理出当前你所看到的2.0 版手册。
 
-2.0 版本最大的改动是，我将原手册拆分为 Windows 和 Mac 两版本的，使用 Windows 的朋友可以看 Windows 版本的，使用 Windows 的朋友可以看 Mac 版本的，再也不用担心快捷键的不同而烦恼了。
+2.0 版本最大的改动是，我将原手册拆分为 Windows 和 Mac 两版本的，使用 Windows 的朋友可以看 Windows 版本的，使用 Mac 的朋友可以看 Mac 版本的，再也不用担心快捷键的不同而烦恼了。
 
 -   [PyCharm 中文指南(Win版)](http://pycharm.iswbm.com/zh_CN/win/#)
 -   [PyCharm 中文指南(Mac版)](http://pycharm.iswbm.com/zh_CN/mac/#)
